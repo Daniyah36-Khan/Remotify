@@ -1,0 +1,64 @@
+faculty_name,email,phone_number,department_name
+Dr. Hassan Butt 1,faculty1@university.edu,03210000001,Computer Science
+Dr. Zain Iqbal 2,faculty2@university.edu,03210000002,Computer Science
+Dr. Kamran Bhatti 3,faculty3@university.edu,03210000003,Computer Science
+Dr. Fatima Sheikh 4,faculty4@university.edu,03210000004,Computer Science
+Dr. Zainab Ansari 5,faculty5@university.edu,03210000005,Computer Science
+Dr. Iqra Baig 6,faculty6@university.edu,03210000006,Computer Science
+Dr. Talha Ghani 7,faculty7@university.edu,03210000007,Computer Science
+Dr. Rida Siddiqui 8,faculty8@university.edu,03210000008,Computer Science
+Dr. Bilal Nawaz 9,faculty9@university.edu,03210000009,Computer Science
+Dr. Hamza Abbasi 10,faculty10@university.edu,03210000010,Electrical Engineering
+Dr. Imran Malik 11,faculty11@university.edu,03210000011,Electrical Engineering
+Dr. Ayesha Chaudhry 12,faculty12@university.edu,03210000012,Electrical Engineering
+Dr. Maryam Aslam 13,faculty13@university.edu,03210000013,Electrical Engineering
+Dr. Sana Dar 14,faculty14@university.edu,03210000014,Electrical Engineering
+Dr. Omar Qureshi 15,faculty15@university.edu,03210000015,Electrical Engineering
+Dr. Danish Farooq 16,faculty16@university.edu,03210000016,Electrical Engineering
+Dr. Ahmed Shah 17,faculty17@university.edu,03210000017,Electrical Engineering
+Dr. Usman Hussain 18,faculty18@university.edu,03210000018,Electrical Engineering
+Dr. Faisal Mirza 19,faculty19@university.edu,03210000019,Mechanical Engineering
+Dr. Sara Rehman 20,faculty20@university.edu,03210000020,Mechanical Engineering
+Dr. Hina Cheema 21,faculty21@university.edu,03210000021,Mechanical Engineering
+Dr. Nida Raza 22,faculty22@university.edu,03210000022,Mechanical Engineering
+Dr. Amna Javed 23,faculty23@university.edu,03210000023,Mechanical Engineering
+Dr. Saad Gill 24,faculty24@university.edu,03210000024,Mechanical Engineering
+Dr. Ali Khan 25,faculty25@university.edu,03210000025,Mechanical Engineering
+Dr. Hassan Butt 26,faculty26@university.edu,03210000026,Mechanical Engineering
+Dr. Zain Iqbal 27,faculty27@university.edu,03210000027,Mechanical Engineering
+Dr. Kamran Bhatti 28,faculty28@university.edu,03210000028,Business Administration
+Dr. Fatima Sheikh 29,faculty29@university.edu,03210000029,Business Administration
+Dr. Zainab Ansari 30,faculty30@university.edu,03210000030,Business Administration
+Dr. Iqra Baig 31,faculty31@university.edu,03210000031,Business Administration
+Dr. Talha Ghani 32,faculty32@university.edu,03210000032,Business Administration
+Dr. Rida Siddiqui 33,faculty33@university.edu,03210000033,Business Administration
+Dr. Bilal Nawaz 34,faculty34@university.edu,03210000034,Business Administration
+Dr. Hamza Abbasi 35,faculty35@university.edu,03210000035,Business Administration
+Dr. Imran Malik 36,faculty36@university.edu,03210000036,Business Administration
+Dr. Ayesha Chaudhry 37,faculty37@university.edu,03210000037,Mathematics
+Dr. Maryam Aslam 38,faculty38@university.edu,03210000038,Mathematics
+Dr. Sana Dar 39,faculty39@university.edu,03210000039,Mathematics
+Dr. Omar Qureshi 40,faculty40@university.edu,03210000040,Mathematics
+Dr. Danish Farooq 41,faculty41@university.edu,03210000041,Mathematics
+Dr. Ahmed Shah 42,faculty42@university.edu,03210000042,Mathematics
+Dr. Usman Hussain 43,faculty43@university.edu,03210000043,Mathematics
+Dr. Faisal Mirza 44,faculty44@university.edu,03210000044,Mathematics
+Dr. Sara Rehman 45,faculty45@university.edu,03210000045,Mathematics
+Dr. Hina Cheema 46,faculty46@university.edu,03210000046,Physics
+Dr. Nida Raza 47,faculty47@university.edu,03210000047,Physics
+Dr. Amna Javed 48,faculty48@university.edu,03210000048,Physics
+Dr. Saad Gill 49,faculty49@university.edu,03210000049,Physics
+Dr. Ali Khan 50,faculty50@university.edu,03210000050,Physics
+Dr. Hassan Butt 51,faculty51@university.edu,03210000051,Physics
+Dr. Zain Iqbal 52,faculty52@university.edu,03210000052,Physics
+Dr. Kamran Bhatti 53,faculty53@university.edu,03210000053,Physics
+Dr. Fatima Sheikh 54,faculty54@university.edu,03210000054,Physics
+Dr. Zainab Ansari 55,faculty55@university.edu,03210000055,Civil Engineering
+Dr. Iqra Baig 56,faculty56@university.edu,03210000056,Civil Engineering
+Dr. Talha Ghani 57,faculty57@university.edu,03210000057,Civil Engineering
+Dr. Rida Siddiqui 58,faculty58@university.edu,03210000058,Civil Engineering
+Dr. Bilal Nawaz 59,faculty59@university.edu,03210000059,Civil Engineering
+Dr. Hamza Abbasi 60,faculty60@university.edu,03210000060,Civil Engineering
+Dr. Imran Malik 61,faculty61@university.edu,03210000061,Civil Engineering
+Dr. Ayesha Chaudhry 62,faculty62@university.edu,03210000062,Civil Engineering
+Dr. Maryam Aslam 63,faculty63@university.edu,03210000063,Civil Engineering
