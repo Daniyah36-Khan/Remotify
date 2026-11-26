@@ -1,0 +1,262 @@
+.login-container {
+  margin-top: 10vh;
+}
+
+.timetable {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 900px;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  border-radius: 0.375rem;
+  overflow: hidden;
+}
+
+.timetable th,
+.timetable td {
+  border: 1px solid #dee2e6;
+  padding: 0.75rem;
+  vertical-align: top;
+  height: 120px;
+}
+
+.timetable th {
+  background-color: #f8f9fa;
+  font-weight: 600;
+  text-align: center;
+}
+
+.timetable .time-slot-header {
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-align: right;
+  color: #6c757d;
+  width: 100px;
+}
+
+.class-entry {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  background-color: #d1e7dd;
+  border-left: 4px solid #198754;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.class-entry.lab {
+  background-color: #cce5ff;
+  border-left-color: #0d6efd;
+}
+
+/* Hide extra classes on screen, show only in print */
+.print-only-class {
+  display: none !important;
+}
+
+.screen-only-button {
+  display: block;
+}
+}
+
+.class-entry .subject {
+  font-weight: 600;
+  color: #0a3622;
+}
+
+.class-entry.lab .subject {
+  color: #052c65;
+}
+
+
+.nav-pills .nav-link {
+  border-radius: 0.25rem;
+  color: #495057;
+  font-weight: 500;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #0d6efd;
+  color: #fff;
+}
+
+.form-control-sm,
+.form-select-sm {
+  font-size: 0.875rem;
+}
+
+/* Compact Table Styling */
+table.dataTable tbody td {
+  padding: 4px 8px;
+  vertical-align: middle;
+  font-size: 0.9rem;
+}
+
+table.dataTable thead th {
+  padding: 8px;
+  font-size: 0.85rem;
+}
+
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter {
+  margin-bottom: 10px;
+  font-size: 0.9rem;
+}
+
+/* Sidebar Scrollbar Styling */
+.sidebar-fixed {
+  position: fixed;
+  top: 56px;
+  /* Height of header */
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  padding: 0;
+  overflow-y: auto;
+  /* Scrollable if menu is too long */
+}
+
+.tt-cell {
+  height: 100px;
+  font-size: 0.85rem;
+  vertical-align: top;
+  position: relative;
+}
+
+.tt-cell:hover {
+  background-color: #f8f9fa;
+}
+
+.status-card {
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+.sidebar-sticky {
+  position: sticky;
+  top: 80px;
+}
+
+/* Stays visible while scrolling */
+
+/* =======================================================
+   PRINT STYLES: FULL EXPANSION (NO SCROLLBARS)
+   ======================================================= */
+@media print {
+
+  /* 1. Force Landscape Mode (Better for wide timetables) */
+  @page {
+    size: landscape;
+    margin: 10mm;
+  }
+
+  /* 2. Hide non-printable elements */
+  body * {
+    visibility: hidden;
+  }
+
+  /* 3. Target the Printable Area */
+  #printable-area,
+  #printable-area * {
+    visibility: visible;
+  }
+
+  /* 4. CRITICAL: Remove Scrollbars and Force Expansion */
+  #printable-area {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    /* This kills the scrollbar and expands the div */
+    overflow: visible !important;
+    height: auto !important;
+    display: block !important;
+  }
+
+  /* 5. If you use Bootstrap's .table-responsive, kill its scroll too */
+  .table-responsive {
+    overflow: visible !important;
+    display: block !important;
+    width: 100% !important;
+  }
+
+  /* 6. Scale down slightly if it still cuts off (Optional) */
+  #printable-area {
+    zoom: 90%;
+    /* Adjust this percentage if it's still too big */
+  }
+
+  /* 7. Ensure backgrounds (colors) print */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* 1. Target the Table Cells and force them to expand */
+  td,
+  th {
+    height: auto !important;
+    /* Let height grow with content */
+    max-height: none !important;
+    /* Remove any limits */
+    overflow: visible !important;
+    /* Show everything that spills out */
+    white-space: normal !important;
+    /* Wrap text to new lines */
+    display: table-cell !important;
+    /* Ensure table structure stays intact */
+  }
+
+  /* 2. Target the inner divs (the class blocks inside the cell) */
+  .timetable-cell,
+  .class-box,
+  .session-info,
+  td div {
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    display: block !important;
+    /* Stack content vertically if needed */
+    border: none !important;
+    /* Optional: Remove inner borders for cleaner look */
+  }
+
+  /* 3. Ensure fonts are readable */
+  td {
+    font-size: 10pt !important;
+    /* Slightly smaller text helps fit more */
+  }
+
+  /* 4. Hide interactive elements (buttons, hover effects) */
+  button,
+  .screen-only-button,
+  [onclick*="expandCell"],
+  [onclick*="collapseCell"] {
+    display: none !important;
+  }
+
+  /* 5. Show ALL classes in print (including hidden ones) */
+  .print-only-class {
+    display: block !important;
+  }
+
+  /* 6. Remove hover effects and transitions */
+  * {
+    transition: none !important;
+  }
+
+  /* 7. Ensure clean card layout for printing */
+  div[style*="cursor:pointer"] {
+    cursor: default !important;
+  }
+
+  /* 8. Avoid breaking class cards across pages */
+  .print-only-class,
+  div[id*="-preview"] > div {
+    page-break-inside: avoid;
+  }
+}
