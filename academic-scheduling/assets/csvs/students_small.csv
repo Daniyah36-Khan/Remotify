@@ -1,0 +1,615 @@
+student_name,email,registration_number,phone_number,dob,gender,department_name,program_name,student_type
+Talha Siddiqui,talhasiddiqui1@student.edu,2024-CS1-0001,03100000001,2001-02-02,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Fatima Cheema,fatimacheema2@student.edu,2024-CS1-0002,03100000002,2002-03-03,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Omar Bhatti,omarbhatti3@student.edu,2024-CS1-0003,03100000003,2003-04-04,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Nida Bhatti,nidabhatti4@student.edu,2024-CS1-0004,03100000004,2004-05-05,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Hamza Nawaz,hamzanawaz5@student.edu,2024-CS1-0005,03100000005,2000-06-06,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Hina Raza,hinaraza6@student.edu,2024-CS1-0006,03100000006,2001-07-07,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Zain Ansari,zainansari7@student.edu,2024-CS1-0007,03100000007,2002-08-08,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Usman Butt,usmanbutt8@student.edu,2024-CS1-0008,03100000008,2003-09-09,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Bilal Baig,bilalbaig9@student.edu,2024-CS1-0009,03100000009,2004-10-10,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Usman Malik,usmanmalik10@student.edu,2024-CS1-0010,03100000010,2000-11-11,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Hina Shah,hinashah11@student.edu,2024-CS1-0011,03100000011,2001-12-12,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Ali Qureshi,aliqureshi12@student.edu,2024-CS1-0012,03100000012,2002-01-13,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Sana Qureshi,sanaqureshi13@student.edu,2024-CS1-0013,03100000013,2003-02-14,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Omar Butt,omarbutt14@student.edu,2024-CS1-0014,03100000014,2004-03-15,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Danish Sheikh,danishsheikh15@student.edu,2024-CS1-0015,03100000015,2000-04-16,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Nida Farooq,nidafarooq16@student.edu,2024-CS1-0016,03100000016,2001-05-17,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Hamza Abbasi,hamzaabbasi17@student.edu,2024-CS1-0017,03100000017,2002-06-18,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Talha Nawaz,talhanawaz18@student.edu,2024-CS1-0018,03100000018,2003-07-19,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Faisal Shah,faisalshah19@student.edu,2024-CS1-0019,03100000019,2004-08-20,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Danish Malik,danishmalik20@student.edu,2024-CS1-0020,03100000020,2000-09-21,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Zainab Dar,zainabdar21@student.edu,2024-CS1-0021,03100000021,2001-10-22,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Sara Malik,saramalik22@student.edu,2024-CS1-0022,03100000022,2002-11-23,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Imran Gill,imrangill23@student.edu,2024-CS1-0023,03100000023,2003-12-24,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Talha Raza,talharaza24@student.edu,2024-CS1-0024,03100000024,2004-01-25,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Hina Dar,hinadar25@student.edu,2024-CS1-0025,03100000025,2000-02-26,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Iqra Abbasi,iqraabbasi26@student.edu,2024-CS1-0026,03100000026,2001-03-27,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Zain Shah,zainshah27@student.edu,2024-CS1-0027,03100000027,2002-04-28,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Maryam Khan,maryamkhan28@student.edu,2024-CS1-0028,03100000028,2003-05-01,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Fatima Mirza,fatimamirza29@student.edu,2024-CS1-0029,03100000029,2004-06-02,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Ahmed Mirza,ahmedmirza30@student.edu,2024-CS1-0030,03100000030,2000-07-03,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Ahmed Javed,ahmedjaved31@student.edu,2024-CS1-0031,03100000031,2001-08-04,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Sara Dar,saradar32@student.edu,2024-CS1-0032,03100000032,2002-09-05,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Hassan Bhatti,hassanbhatti33@student.edu,2024-CS1-0033,03100000033,2003-10-06,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Rida Iqbal,ridaiqbal34@student.edu,2024-CS1-0034,03100000034,2004-11-07,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Imran Qureshi,imranqureshi35@student.edu,2024-CS1-0035,03100000035,2000-12-08,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Zain Rehman,zainrehman36@student.edu,2023-CS1-0036,03100000036,2001-01-09,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Danish Butt,danishbutt37@student.edu,2023-CS1-0037,03100000037,2002-02-10,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Maryam Shah,maryamshah38@student.edu,2023-CS1-0038,03100000038,2003-03-11,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Amna Raza,amnaraza39@student.edu,2023-CS1-0039,03100000039,2004-04-12,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Kamran Sheikh,kamransheikh40@student.edu,2023-CS1-0040,03100000040,2000-05-13,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Kamran Qureshi,kamranqureshi41@student.edu,2023-CS1-0041,03100000041,2001-06-14,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Amna Bhatti,amnabhatti42@student.edu,2023-CS1-0042,03100000042,2002-07-15,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Kamran Butt,kamranbutt43@student.edu,2023-CS1-0043,03100000043,2003-08-16,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Iqra Raza,iqraraza44@student.edu,2023-CS1-0044,03100000044,2004-09-17,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Sara Qureshi,saraqureshi45@student.edu,2023-CS1-0045,03100000045,2000-10-18,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Kamran Hussain,kamranhussain46@student.edu,2023-CS1-0046,03100000046,2001-11-19,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Rida Farooq,ridafarooq47@student.edu,2023-CS1-0047,03100000047,2002-12-20,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Sara Siddiqui,sarasiddiqui48@student.edu,2023-CS1-0048,03100000048,2003-01-21,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Ahmed Cheema,ahmedcheema49@student.edu,2023-CS1-0049,03100000049,2004-02-22,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Hassan Raza,hassanraza50@student.edu,2023-CS1-0050,03100000050,2000-03-23,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Omar Sheikh,omarsheikh51@student.edu,2023-CS1-0051,03100000051,2001-04-24,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Sana Bhatti,sanabhatti52@student.edu,2023-CS1-0052,03100000052,2002-05-25,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Kamran Rehman,kamranrehman53@student.edu,2023-CS1-0053,03100000053,2003-06-26,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Maryam Sheikh,maryamsheikh54@student.edu,2023-CS1-0054,03100000054,2004-07-27,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Bilal Ghani,bilalghani55@student.edu,2023-CS1-0055,03100000055,2000-08-28,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Hassan Khan,hassankhan56@student.edu,2023-CS1-0056,03100000056,2001-09-01,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Kamran Gill,kamrangill57@student.edu,2023-CS1-0057,03100000057,2002-10-02,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Fatima Iqbal,fatimaiqbal58@student.edu,2023-CS1-0058,03100000058,2003-11-03,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Sara Rehman,sararehman59@student.edu,2023-CS1-0059,03100000059,2004-12-04,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Zainab Chaudhry,zainabchaudhry60@student.edu,2023-CS1-0060,03100000060,2000-01-05,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Hina Iqbal,hinaiqbal61@student.edu,2023-CS1-0061,03100000061,2001-02-06,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Zainab Ghani,zainabghani62@student.edu,2023-CS1-0062,03100000062,2002-03-07,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Hassan Butt,hassanbutt63@student.edu,2023-CS1-0063,03100000063,2003-04-08,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Kamran Aslam,kamranaslam64@student.edu,2023-CS1-0064,03100000064,2004-05-09,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Kamran Abbasi,kamranabbasi65@student.edu,2023-CS1-0065,03100000065,2000-06-10,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Danish Hussain,danishhussain66@student.edu,2023-CS1-0066,03100000066,2001-07-11,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Fatima Baig,fatimabaig67@student.edu,2023-CS1-0067,03100000067,2002-08-12,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Nida Aslam,nidaaslam68@student.edu,2023-CS1-0068,03100000068,2003-09-13,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Ayesha Dar,ayeshadar69@student.edu,2023-CS1-0069,03100000069,2004-10-14,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Rida Ansari,ridaansari70@student.edu,2023-CS1-0070,03100000070,2000-11-15,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Talha Khan,talhakhan71@student.edu,2023-CS1-0071,03100000071,2001-12-16,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Usman Sheikh,usmansheikh72@student.edu,2023-CS1-0072,03100000072,2002-01-17,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Omar Malik,omarmalik73@student.edu,2023-CS1-0073,03100000073,2003-02-18,Male,Computer Science,Bachelor of Science in Computer Science,regular
+Talha Ansari,talhaansari74@student.edu,2023-CS1-0074,03100000074,2004-03-19,Female,Computer Science,Bachelor of Science in Computer Science,regular
+Iqra Siddiqui,iqrasiddiqui75@student.edu,2024-CS2-0075,03100000075,2000-04-20,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Ahmed Rehman,ahmedrehman76@student.edu,2024-CS2-0076,03100000076,2001-05-21,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Ali Ghani,alighani77@student.edu,2024-CS2-0077,03100000077,2002-06-22,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Hamza Siddiqui,hamzasiddiqui78@student.edu,2024-CS2-0078,03100000078,2003-07-23,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Danish Mirza,danishmirza79@student.edu,2024-CS2-0079,03100000079,2004-08-24,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Faisal Mirza,faisalmirza80@student.edu,2024-CS2-0080,03100000080,2000-09-25,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Zainab Malik,zainabmalik81@student.edu,2024-CS2-0081,03100000081,2001-10-26,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Zain Iqbal,zainiqbal82@student.edu,2024-CS2-0082,03100000082,2002-11-27,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Zainab Ansari,zainabansari83@student.edu,2024-CS2-0083,03100000083,2003-12-28,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Hamza Butt,hamzabutt84@student.edu,2024-CS2-0084,03100000084,2004-01-01,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Zainab Gill,zainabgill85@student.edu,2024-CS2-0085,03100000085,2000-02-02,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Omar Javed,omarjaved86@student.edu,2024-CS2-0086,03100000086,2001-03-03,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Hassan Dar,hassandar87@student.edu,2024-CS2-0087,03100000087,2002-04-04,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Danish Abbasi,danishabbasi88@student.edu,2024-CS2-0088,03100000088,2003-05-05,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Talha Iqbal,talhaiqbal89@student.edu,2024-CS2-0089,03100000089,2004-06-06,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Zain Cheema,zaincheema90@student.edu,2024-CS2-0090,03100000090,2000-07-07,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Talha Chaudhry,talhachaudhry91@student.edu,2024-CS2-0091,03100000091,2001-08-08,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Saad Sheikh,saadsheikh92@student.edu,2024-CS2-0092,03100000092,2002-09-09,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Ayesha Malik,ayeshamalik93@student.edu,2024-CS2-0093,03100000093,2003-10-10,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Hassan Ansari,hassanansari94@student.edu,2024-CS2-0094,03100000094,2004-11-11,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Talha Qureshi,talhaqureshi95@student.edu,2024-CS2-0095,03100000095,2000-12-12,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Usman Ghani,usmanghani96@student.edu,2024-CS2-0096,03100000096,2001-01-13,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Ahmed Gill,ahmedgill97@student.edu,2024-CS2-0097,03100000097,2002-02-14,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Talha Aslam,talhaaslam98@student.edu,2024-CS2-0098,03100000098,2003-03-15,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Iqra Sheikh,iqrasheikh99@student.edu,2024-CS2-0099,03100000099,2004-04-16,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Nida Mirza,nidamirza100@student.edu,2024-CS2-0100,03100000100,2000-05-17,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Imran Cheema,imrancheema101@student.edu,2024-CS2-0101,03100000101,2001-06-18,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Sana Ansari,sanaansari102@student.edu,2024-CS2-0102,03100000102,2002-07-19,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Hamza Farooq,hamzafarooq103@student.edu,2024-CS2-0103,03100000103,2003-08-20,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Imran Butt,imranbutt104@student.edu,2024-CS2-0104,03100000104,2004-09-21,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Usman Gill,usmangill105@student.edu,2024-CS2-0105,03100000105,2000-10-22,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Sana Malik,sanamalik106@student.edu,2024-CS2-0106,03100000106,2001-11-23,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Faisal Siddiqui,faisalsiddiqui107@student.edu,2024-CS2-0107,03100000107,2002-12-24,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Ali Khan,alikhan108@student.edu,2024-CS2-0108,03100000108,2003-01-25,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Nida Butt,nidabutt109@student.edu,2023-CS2-0109,03100000109,2004-02-26,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Amna Dar,amnadar110@student.edu,2023-CS2-0110,03100000110,2000-03-27,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Ayesha Khan,ayeshakhan111@student.edu,2023-CS2-0111,03100000111,2001-04-28,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Zainab Siddiqui,zainabsiddiqui112@student.edu,2023-CS2-0112,03100000112,2002-05-01,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Omar Mirza,omarmirza113@student.edu,2023-CS2-0113,03100000113,2003-06-02,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Fatima Ansari,fatimaansari114@student.edu,2023-CS2-0114,03100000114,2004-07-03,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Saad Malik,saadmalik115@student.edu,2023-CS2-0115,03100000115,2000-08-04,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Ahmed Chaudhry,ahmedchaudhry116@student.edu,2023-CS2-0116,03100000116,2001-09-05,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Danish Gill,danishgill117@student.edu,2023-CS2-0117,03100000117,2002-10-06,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Hassan Gill,hassangill118@student.edu,2023-CS2-0118,03100000118,2003-11-07,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Sara Aslam,saraaslam119@student.edu,2023-CS2-0119,03100000119,2004-12-08,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Bilal Javed,bilaljaved120@student.edu,2023-CS2-0120,03100000120,2000-01-09,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Faisal Iqbal,faisaliqbal121@student.edu,2023-CS2-0121,03100000121,2001-02-10,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Hina Ansari,hinaansari122@student.edu,2023-CS2-0122,03100000122,2002-03-11,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Sana Khan,sanakhan123@student.edu,2023-CS2-0123,03100000123,2003-04-12,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Zain Butt,zainbutt124@student.edu,2023-CS2-0124,03100000124,2004-05-13,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Talha Butt,talhabutt125@student.edu,2023-CS2-0125,03100000125,2000-06-14,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Faisal Cheema,faisalcheema126@student.edu,2023-CS2-0126,03100000126,2001-07-15,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Imran Javed,imranjaved127@student.edu,2023-CS2-0127,03100000127,2002-08-16,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Saad Dar,saaddar128@student.edu,2023-CS2-0128,03100000128,2003-09-17,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Omar Baig,omarbaig129@student.edu,2023-CS2-0129,03100000129,2004-10-18,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Kamran Javed,kamranjaved130@student.edu,2023-CS2-0130,03100000130,2000-11-19,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Rida Raza,ridaraza131@student.edu,2023-CS2-0131,03100000131,2001-12-20,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Ayesha Shah,ayeshashah132@student.edu,2023-CS2-0132,03100000132,2002-01-21,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Sara Nawaz,saranawaz133@student.edu,2023-CS2-0133,03100000133,2003-02-22,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Amna Rehman,amnarehman134@student.edu,2023-CS2-0134,03100000134,2004-03-23,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Ahmed Raza,ahmedraza135@student.edu,2023-CS2-0135,03100000135,2000-04-24,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Faisal Butt,faisalbutt136@student.edu,2023-CS2-0136,03100000136,2001-05-25,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Omar Chaudhry,omarchaudhry137@student.edu,2023-CS2-0137,03100000137,2002-06-26,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Omar Farooq,omarfarooq138@student.edu,2023-CS2-0138,03100000138,2003-07-27,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Ali Baig,alibaig139@student.edu,2023-CS2-0139,03100000139,2004-08-28,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Usman Chaudhry,usmanchaudhry140@student.edu,2023-CS2-0140,03100000140,2000-09-01,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Omar Qureshi,omarqureshi141@student.edu,2023-CS2-0141,03100000141,2001-10-02,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Zainab Qureshi,zainabqureshi142@student.edu,2023-CS2-0142,03100000142,2002-11-03,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Nida Ansari,nidaansari143@student.edu,2023-CS2-0143,03100000143,2003-12-04,Male,Computer Science,Bachelor of Science in Software Engineering,regular
+Saad Cheema,saadcheema144@student.edu,2023-CS2-0144,03100000144,2004-01-05,Female,Computer Science,Bachelor of Science in Software Engineering,regular
+Rida Chaudhry,ridachaudhry145@student.edu,2024-EE1-0145,03100000145,2000-02-06,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Iqra Chaudhry,iqrachaudhry146@student.edu,2024-EE1-0146,03100000146,2001-03-07,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ali Chaudhry,alichaudhry147@student.edu,2024-EE1-0147,03100000147,2002-04-08,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Imran Ghani,imranghani148@student.edu,2024-EE1-0148,03100000148,2003-05-09,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Zainab Hussain,zainabhussain149@student.edu,2024-EE1-0149,03100000149,2004-06-10,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Usman Nawaz,usmannawaz150@student.edu,2024-EE1-0150,03100000150,2000-07-11,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Rida Dar,ridadar151@student.edu,2024-EE1-0151,03100000151,2001-08-12,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ahmed Sheikh,ahmedsheikh152@student.edu,2024-EE1-0152,03100000152,2002-09-13,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Nida Iqbal,nidaiqbal153@student.edu,2024-EE1-0153,03100000153,2003-10-14,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Hamza Gill,hamzagill154@student.edu,2024-EE1-0154,03100000154,2004-11-15,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Fatima Butt,fatimabutt155@student.edu,2024-EE1-0155,03100000155,2000-12-16,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Kamran Baig,kamranbaig156@student.edu,2024-EE1-0156,03100000156,2001-01-17,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Bilal Cheema,bilalcheema157@student.edu,2024-EE1-0157,03100000157,2002-02-18,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Maryam Chaudhry,maryamchaudhry158@student.edu,2024-EE1-0158,03100000158,2003-03-19,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Fatima Dar,fatimadar159@student.edu,2024-EE1-0159,03100000159,2004-04-20,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Amna Ansari,amnaansari160@student.edu,2024-EE1-0160,03100000160,2000-05-21,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Faisal Hussain,faisalhussain161@student.edu,2024-EE1-0161,03100000161,2001-06-22,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Bilal Nawaz,bilalnawaz162@student.edu,2024-EE1-0162,03100000162,2002-07-23,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Usman Siddiqui,usmansiddiqui163@student.edu,2024-EE1-0163,03100000163,2003-08-24,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Zain Qureshi,zainqureshi164@student.edu,2024-EE1-0164,03100000164,2004-09-25,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Bilal Hussain,bilalhussain165@student.edu,2024-EE1-0165,03100000165,2000-10-26,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Sara Bhatti,sarabhatti166@student.edu,2024-EE1-0166,03100000166,2001-11-27,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Zain Mirza,zainmirza167@student.edu,2024-EE1-0167,03100000167,2002-12-28,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ali Aslam,aliaslam168@student.edu,2024-EE1-0168,03100000168,2003-01-01,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Hina Hussain,hinahussain169@student.edu,2024-EE1-0169,03100000169,2004-02-02,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Omar Hussain,omarhussain170@student.edu,2024-EE1-0170,03100000170,2000-03-03,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Talha Bhatti,talhabhatti171@student.edu,2024-EE1-0171,03100000171,2001-04-04,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Hassan Nawaz,hassannawaz172@student.edu,2024-EE1-0172,03100000172,2002-05-05,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Imran Abbasi,imranabbasi173@student.edu,2024-EE1-0173,03100000173,2003-06-06,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Sara Butt,sarabutt174@student.edu,2024-EE1-0174,03100000174,2004-07-07,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Sara Ghani,saraghani175@student.edu,2024-EE1-0175,03100000175,2000-08-08,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Hassan Qureshi,hassanqureshi176@student.edu,2024-EE1-0176,03100000176,2001-09-09,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Nida Chaudhry,nidachaudhry177@student.edu,2024-EE1-0177,03100000177,2002-10-10,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ahmed Farooq,ahmedfarooq178@student.edu,2024-EE1-0178,03100000178,2003-11-11,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Saad Javed,saadjaved179@student.edu,2024-EE1-0179,03100000179,2004-12-12,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ahmed Qureshi,ahmedqureshi180@student.edu,2024-EE1-0180,03100000180,2000-01-13,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Fatima Gill,fatimagill181@student.edu,2024-EE1-0181,03100000181,2001-02-14,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ali Bhatti,alibhatti182@student.edu,2024-EE1-0182,03100000182,2002-03-15,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Kamran Ghani,kamranghani183@student.edu,2023-EE1-0183,03100000183,2003-04-16,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Talha Rehman,talharehman184@student.edu,2023-EE1-0184,03100000184,2004-05-17,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Rida Nawaz,ridanawaz185@student.edu,2023-EE1-0185,03100000185,2000-06-18,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ali Cheema,alicheema186@student.edu,2023-EE1-0186,03100000186,2001-07-19,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Maryam Butt,maryambutt187@student.edu,2023-EE1-0187,03100000187,2002-08-20,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Bilal Dar,bilaldar188@student.edu,2023-EE1-0188,03100000188,2003-09-21,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Kamran Nawaz,kamrannawaz189@student.edu,2023-EE1-0189,03100000189,2004-10-22,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Danish Shah,danishshah190@student.edu,2023-EE1-0190,03100000190,2000-11-23,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ahmed Ansari,ahmedansari191@student.edu,2023-EE1-0191,03100000191,2001-12-24,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Imran Farooq,imranfarooq192@student.edu,2023-EE1-0192,03100000192,2002-01-25,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Faisal Ansari,faisalansari193@student.edu,2023-EE1-0193,03100000193,2003-02-26,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Usman Shah,usmanshah194@student.edu,2023-EE1-0194,03100000194,2004-03-27,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Imran Iqbal,imraniqbal195@student.edu,2023-EE1-0195,03100000195,2000-04-28,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Sana Mirza,sanamirza196@student.edu,2023-EE1-0196,03100000196,2001-05-01,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Saad Rehman,saadrehman197@student.edu,2023-EE1-0197,03100000197,2002-06-02,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Talha Abbasi,talhaabbasi198@student.edu,2023-EE1-0198,03100000198,2003-07-03,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ahmed Aslam,ahmedaslam199@student.edu,2023-EE1-0199,03100000199,2004-08-04,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Nida Gill,nidagill200@student.edu,2023-EE1-0200,03100000200,2000-09-05,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ali Hussain,alihussain201@student.edu,2023-EE1-0201,03100000201,2001-10-06,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Hina Abbasi,hinaabbasi202@student.edu,2023-EE1-0202,03100000202,2002-11-07,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Fatima Malik,fatimamalik203@student.edu,2023-EE1-0203,03100000203,2003-12-08,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Bilal Sheikh,bilalsheikh204@student.edu,2023-EE1-0204,03100000204,2004-01-09,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Rida Gill,ridagill205@student.edu,2023-EE1-0205,03100000205,2000-02-10,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Zainab Aslam,zainabaslam206@student.edu,2023-EE1-0206,03100000206,2001-03-11,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Saad Chaudhry,saadchaudhry207@student.edu,2023-EE1-0207,03100000207,2002-04-12,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Saad Hussain,saadhussain208@student.edu,2023-EE1-0208,03100000208,2003-05-13,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Imran Sheikh,imransheikh209@student.edu,2023-EE1-0209,03100000209,2004-06-14,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Hassan Abbasi,hassanabbasi210@student.edu,2023-EE1-0210,03100000210,2000-07-15,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Sana Dar,sanadar211@student.edu,2023-EE1-0211,03100000211,2001-08-16,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Amna Iqbal,amnaiqbal212@student.edu,2023-EE1-0212,03100000212,2002-09-17,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Iqra Nawaz,iqranawaz213@student.edu,2023-EE1-0213,03100000213,2003-10-18,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Imran Nawaz,imrannawaz214@student.edu,2023-EE1-0214,03100000214,2004-11-19,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Fatima Farooq,fatimafarooq215@student.edu,2023-EE1-0215,03100000215,2000-12-20,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Saad Qureshi,saadqureshi216@student.edu,2023-EE1-0216,03100000216,2001-01-21,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Faisal Rehman,faisalrehman217@student.edu,2023-EE1-0217,03100000217,2002-02-22,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Ayesha Javed,ayeshajaved218@student.edu,2023-EE1-0218,03100000218,2003-03-23,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Danish Javed,danishjaved219@student.edu,2023-EE1-0219,03100000219,2004-04-24,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Sana Butt,sanabutt220@student.edu,2023-EE1-0220,03100000220,2000-05-25,Female,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Danish Ghani,danishghani221@student.edu,2023-EE1-0221,03100000221,2001-06-26,Male,Electrical Engineering,Bachelor of Science in Electrical Engineering,regular
+Talha Malik,talhamalik222@student.edu,2024-EE2-0222,03100000222,2002-07-27,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Kamran Mirza,kamranmirza223@student.edu,2024-EE2-0223,03100000223,2003-08-28,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ahmed Nawaz,ahmednawaz224@student.edu,2024-EE2-0224,03100000224,2004-09-01,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Usman Abbasi,usmanabbasi225@student.edu,2024-EE2-0225,03100000225,2000-10-02,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hina Malik,hinamalik226@student.edu,2024-EE2-0226,03100000226,2001-11-03,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Kamran Cheema,kamrancheema227@student.edu,2024-EE2-0227,03100000227,2002-12-04,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hassan Sheikh,hassansheikh228@student.edu,2024-EE2-0228,03100000228,2003-01-05,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ayesha Gill,ayeshagill229@student.edu,2024-EE2-0229,03100000229,2004-02-06,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Fatima Bhatti,fatimabhatti230@student.edu,2024-EE2-0230,03100000230,2000-03-07,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Maryam Farooq,maryamfarooq231@student.edu,2024-EE2-0231,03100000231,2001-04-08,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Nida Rehman,nidarehman232@student.edu,2024-EE2-0232,03100000232,2002-05-09,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Nida Sheikh,nidasheikh233@student.edu,2024-EE2-0233,03100000233,2003-06-10,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Amna Siddiqui,amnasiddiqui234@student.edu,2024-EE2-0234,03100000234,2004-07-11,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Bilal Shah,bilalshah235@student.edu,2024-EE2-0235,03100000235,2000-08-12,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Sana Nawaz,sananawaz236@student.edu,2024-EE2-0236,03100000236,2001-09-13,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Nida Baig,nidabaig237@student.edu,2024-EE2-0237,03100000237,2002-10-14,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hina Qureshi,hinaqureshi238@student.edu,2024-EE2-0238,03100000238,2003-11-15,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Danish Cheema,danishcheema239@student.edu,2024-EE2-0239,03100000239,2004-12-16,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Sana Cheema,sanacheema240@student.edu,2024-EE2-0240,03100000240,2000-01-17,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Danish Rehman,danishrehman241@student.edu,2024-EE2-0241,03100000241,2001-02-18,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ali Mirza,alimirza242@student.edu,2024-EE2-0242,03100000242,2002-03-19,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Maryam Rehman,maryamrehman243@student.edu,2024-EE2-0243,03100000243,2003-04-20,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Zain Farooq,zainfarooq244@student.edu,2024-EE2-0244,03100000244,2004-05-21,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Iqra Cheema,iqracheema245@student.edu,2024-EE2-0245,03100000245,2000-06-22,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Nida Raza,nidaraza246@student.edu,2024-EE2-0246,03100000246,2001-07-23,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hassan Siddiqui,hassansiddiqui247@student.edu,2024-EE2-0247,03100000247,2002-08-24,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Rida Cheema,ridacheema248@student.edu,2024-EE2-0248,03100000248,2003-09-25,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Imran Chaudhry,imranchaudhry249@student.edu,2024-EE2-0249,03100000249,2004-10-26,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Sana Farooq,sanafarooq250@student.edu,2024-EE2-0250,03100000250,2000-11-27,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Amna Shah,amnashah251@student.edu,2024-EE2-0251,03100000251,2001-12-28,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Zainab Abbasi,zainababbasi252@student.edu,2024-EE2-0252,03100000252,2002-01-01,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Saad Aslam,saadaslam253@student.edu,2024-EE2-0253,03100000253,2003-02-02,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ali Raza,aliraza254@student.edu,2024-EE2-0254,03100000254,2004-03-03,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Maryam Baig,maryambaig255@student.edu,2024-EE2-0255,03100000255,2000-04-04,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hina Siddiqui,hinasiddiqui256@student.edu,2024-EE2-0256,03100000256,2001-05-05,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Sara Javed,sarajaved257@student.edu,2024-EE2-0257,03100000257,2002-06-06,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hamza Bhatti,hamzabhatti258@student.edu,2024-EE2-0258,03100000258,2003-07-07,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hina Khan,hinakhan259@student.edu,2024-EE2-0259,03100000259,2004-08-08,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Usman Javed,usmanjaved260@student.edu,2023-EE2-0260,03100000260,2000-09-09,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Fatima Siddiqui,fatimasiddiqui261@student.edu,2023-EE2-0261,03100000261,2001-10-10,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Zain Raza,zainraza262@student.edu,2023-EE2-0262,03100000262,2002-11-11,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ahmed Malik,ahmedmalik263@student.edu,2023-EE2-0263,03100000263,2003-12-12,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ayesha Siddiqui,ayeshasiddiqui264@student.edu,2023-EE2-0264,03100000264,2004-01-13,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Amna Chaudhry,amnachaudhry265@student.edu,2023-EE2-0265,03100000265,2000-02-14,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Usman Bhatti,usmanbhatti266@student.edu,2023-EE2-0266,03100000266,2001-03-15,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hina Gill,hinagill267@student.edu,2023-EE2-0267,03100000267,2002-04-16,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Omar Iqbal,omariqbal268@student.edu,2023-EE2-0268,03100000268,2003-05-17,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Saad Mirza,saadmirza269@student.edu,2023-EE2-0269,03100000269,2004-06-18,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Bilal Malik,bilalmalik270@student.edu,2023-EE2-0270,03100000270,2000-07-19,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Omar Rehman,omarrehman271@student.edu,2023-EE2-0271,03100000271,2001-08-20,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ahmed Dar,ahmeddar272@student.edu,2023-EE2-0272,03100000272,2002-09-21,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Sana Aslam,sanaaslam273@student.edu,2023-EE2-0273,03100000273,2003-10-22,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Omar Aslam,omaraslam274@student.edu,2023-EE2-0274,03100000274,2004-11-23,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Kamran Malik,kamranmalik275@student.edu,2023-EE2-0275,03100000275,2000-12-24,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Imran Baig,imranbaig276@student.edu,2023-EE2-0276,03100000276,2001-01-25,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Bilal Gill,bilalgill277@student.edu,2023-EE2-0277,03100000277,2002-02-26,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Saad Raza,saadraza278@student.edu,2023-EE2-0278,03100000278,2003-03-27,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ali Gill,aligill279@student.edu,2023-EE2-0279,03100000279,2004-04-28,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ayesha Farooq,ayeshafarooq280@student.edu,2023-EE2-0280,03100000280,2000-05-01,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hamza Dar,hamzadar281@student.edu,2023-EE2-0281,03100000281,2001-06-02,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ayesha Mirza,ayeshamirza282@student.edu,2023-EE2-0282,03100000282,2002-07-03,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Bilal Abbasi,bilalabbasi283@student.edu,2023-EE2-0283,03100000283,2003-08-04,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Sara Shah,sarashah284@student.edu,2023-EE2-0284,03100000284,2004-09-05,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Zain Khan,zainkhan285@student.edu,2023-EE2-0285,03100000285,2000-10-06,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Talha Baig,talhabaig286@student.edu,2023-EE2-0286,03100000286,2001-11-07,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Danish Khan,danishkhan287@student.edu,2023-EE2-0287,03100000287,2002-12-08,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Nida Dar,nidadar288@student.edu,2023-EE2-0288,03100000288,2003-01-09,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Nida Qureshi,nidaqureshi289@student.edu,2023-EE2-0289,03100000289,2004-02-10,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Zain Ghani,zainghani290@student.edu,2023-EE2-0290,03100000290,2000-03-11,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Usman Farooq,usmanfarooq291@student.edu,2023-EE2-0291,03100000291,2001-04-12,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Nida Nawaz,nidanawaz292@student.edu,2023-EE2-0292,03100000292,2002-05-13,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Kamran Bhatti,kamranbhatti293@student.edu,2023-EE2-0293,03100000293,2003-06-14,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Maryam Gill,maryamgill294@student.edu,2023-EE2-0294,03100000294,2004-07-15,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ayesha Butt,ayeshabutt295@student.edu,2023-EE2-0295,03100000295,2000-08-16,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Usman Baig,usmanbaig296@student.edu,2023-EE2-0296,03100000296,2001-09-17,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Nida Hussain,nidahussain297@student.edu,2023-EE2-0297,03100000297,2002-10-18,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Iqra Rehman,iqrarehman298@student.edu,2023-EE2-0298,03100000298,2003-11-19,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Amna Aslam,amnaaslam299@student.edu,2023-EE2-0299,03100000299,2004-12-20,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Zain Abbasi,zainabbasi300@student.edu,2023-EE2-0300,03100000300,2000-01-21,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Sana Javed,sanajaved301@student.edu,2023-EE2-0301,03100000301,2001-02-22,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ayesha Ghani,ayeshaghani302@student.edu,2023-EE2-0302,03100000302,2002-03-23,Female,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Hassan Rehman,hassanrehman303@student.edu,2023-EE2-0303,03100000303,2003-04-24,Male,Electrical Engineering,Bachelor of Science in Electronics Engineering,regular
+Ali Farooq,alifarooq304@student.edu,2024-ME1-0304,03100000304,2004-05-25,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Talha Farooq,talhafarooq305@student.edu,2024-ME1-0305,03100000305,2000-06-26,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hamza Cheema,hamzacheema306@student.edu,2024-ME1-0306,03100000306,2001-07-27,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Usman Aslam,usmanaslam307@student.edu,2024-ME1-0307,03100000307,2002-08-28,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ali Sheikh,alisheikh308@student.edu,2024-ME1-0308,03100000308,2003-09-01,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Maryam Cheema,maryamcheema309@student.edu,2024-ME1-0309,03100000309,2004-10-02,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Fatima Hussain,fatimahussain310@student.edu,2024-ME1-0310,03100000310,2000-11-03,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Imran Mirza,imranmirza311@student.edu,2024-ME1-0311,03100000311,2001-12-04,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Sana Gill,sanagill312@student.edu,2024-ME1-0312,03100000312,2002-01-05,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Fatima Aslam,fatimaaslam313@student.edu,2024-ME1-0313,03100000313,2003-02-06,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Sana Iqbal,sanaiqbal314@student.edu,2024-ME1-0314,03100000314,2004-03-07,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ali Abbasi,aliabbasi315@student.edu,2024-ME1-0315,03100000315,2000-04-08,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Imran Dar,imrandar316@student.edu,2024-ME1-0316,03100000316,2001-05-09,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ahmed Iqbal,ahmediqbal317@student.edu,2024-ME1-0317,03100000317,2002-06-10,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ali Ansari,aliansari318@student.edu,2024-ME1-0318,03100000318,2003-07-11,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Kamran Farooq,kamranfarooq319@student.edu,2024-ME1-0319,03100000319,2004-08-12,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hina Nawaz,hinanawaz320@student.edu,2024-ME1-0320,03100000320,2000-09-13,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Rida Qureshi,ridaqureshi321@student.edu,2024-ME1-0321,03100000321,2001-10-14,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Faisal Gill,faisalgill322@student.edu,2024-ME1-0322,03100000322,2002-11-15,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Iqra Bhatti,iqrabhatti323@student.edu,2024-ME1-0323,03100000323,2003-12-16,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ali Iqbal,aliiqbal324@student.edu,2024-ME1-0324,03100000324,2004-01-17,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hina Butt,hinabutt325@student.edu,2024-ME1-0325,03100000325,2000-02-18,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Faisal Bhatti,faisalbhatti326@student.edu,2024-ME1-0326,03100000326,2001-03-19,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Iqra Shah,iqrashah327@student.edu,2024-ME1-0327,03100000327,2002-04-20,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Faisal Farooq,faisalfarooq328@student.edu,2024-ME1-0328,03100000328,2003-05-21,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Omar Siddiqui,omarsiddiqui329@student.edu,2024-ME1-0329,03100000329,2004-06-22,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Saad Bhatti,saadbhatti330@student.edu,2024-ME1-0330,03100000330,2000-07-23,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Danish Nawaz,danishnawaz331@student.edu,2024-ME1-0331,03100000331,2001-08-24,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Zain Bhatti,zainbhatti332@student.edu,2024-ME1-0332,03100000332,2002-09-25,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Saad Gill,saadgill333@student.edu,2024-ME1-0333,03100000333,2003-10-26,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Iqra Gill,iqragill334@student.edu,2024-ME1-0334,03100000334,2004-11-27,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Iqra Malik,iqramalik335@student.edu,2024-ME1-0335,03100000335,2000-12-28,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Iqra Hussain,iqrahussain336@student.edu,2024-ME1-0336,03100000336,2001-01-01,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Omar Khan,omarkhan337@student.edu,2024-ME1-0337,03100000337,2002-02-02,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Imran Hussain,imranhussain338@student.edu,2024-ME1-0338,03100000338,2003-03-03,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Omar Ghani,omarghani339@student.edu,2023-ME1-0339,03100000339,2004-04-04,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Faisal Ghani,faisalghani340@student.edu,2023-ME1-0340,03100000340,2000-05-05,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hina Cheema,hinacheema341@student.edu,2023-ME1-0341,03100000341,2001-06-06,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Danish Ansari,danishansari342@student.edu,2023-ME1-0342,03100000342,2002-07-07,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ali Shah,alishah343@student.edu,2023-ME1-0343,03100000343,2003-08-08,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hamza Javed,hamzajaved344@student.edu,2023-ME1-0344,03100000344,2004-09-09,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Talha Cheema,talhacheema345@student.edu,2023-ME1-0345,03100000345,2000-10-10,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Rida Hussain,ridahussain346@student.edu,2023-ME1-0346,03100000346,2001-11-11,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Saad Iqbal,saadiqbal347@student.edu,2023-ME1-0347,03100000347,2002-12-12,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ayesha Qureshi,ayeshaqureshi348@student.edu,2023-ME1-0348,03100000348,2003-01-13,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Kamran Raza,kamranraza349@student.edu,2023-ME1-0349,03100000349,2004-02-14,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Amna Mirza,amnamirza350@student.edu,2023-ME1-0350,03100000350,2000-03-15,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Danish Siddiqui,danishsiddiqui351@student.edu,2023-ME1-0351,03100000351,2001-04-16,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Amna Malik,amnamalik352@student.edu,2023-ME1-0352,03100000352,2002-05-17,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hina Javed,hinajaved353@student.edu,2023-ME1-0353,03100000353,2003-06-18,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hassan Cheema,hassancheema354@student.edu,2023-ME1-0354,03100000354,2004-07-19,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Zain Aslam,zainaslam355@student.edu,2023-ME1-0355,03100000355,2000-08-20,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hamza Sheikh,hamzasheikh356@student.edu,2023-ME1-0356,03100000356,2001-09-21,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hina Baig,hinabaig357@student.edu,2023-ME1-0357,03100000357,2002-10-22,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Amna Qureshi,amnaqureshi358@student.edu,2023-ME1-0358,03100000358,2003-11-23,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hamza Mirza,hamzamirza359@student.edu,2023-ME1-0359,03100000359,2004-12-24,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hina Farooq,hinafarooq360@student.edu,2023-ME1-0360,03100000360,2000-01-25,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Nida Siddiqui,nidasiddiqui361@student.edu,2023-ME1-0361,03100000361,2001-02-26,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Fatima Shah,fatimashah362@student.edu,2023-ME1-0362,03100000362,2002-03-27,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hamza Ansari,hamzaansari363@student.edu,2023-ME1-0363,03100000363,2003-04-28,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Imran Ansari,imranansari364@student.edu,2023-ME1-0364,03100000364,2004-05-01,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ahmed Siddiqui,ahmedsiddiqui365@student.edu,2023-ME1-0365,03100000365,2000-06-02,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Rida Butt,ridabutt366@student.edu,2023-ME1-0366,03100000366,2001-07-03,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ali Dar,alidar367@student.edu,2023-ME1-0367,03100000367,2002-08-04,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hassan Malik,hassanmalik368@student.edu,2023-ME1-0368,03100000368,2003-09-05,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Bilal Ansari,bilalansari369@student.edu,2023-ME1-0369,03100000369,2004-10-06,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Rida Sheikh,ridasheikh370@student.edu,2023-ME1-0370,03100000370,2000-11-07,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Fatima Rehman,fatimarehman371@student.edu,2023-ME1-0371,03100000371,2001-12-08,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Sana Baig,sanabaig372@student.edu,2023-ME1-0372,03100000372,2002-01-09,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ayesha Bhatti,ayeshabhatti373@student.edu,2023-ME1-0373,03100000373,2003-02-10,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Iqra Javed,iqrajaved374@student.edu,2023-ME1-0374,03100000374,2004-03-11,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Hamza Raza,hamzaraza375@student.edu,2023-ME1-0375,03100000375,2000-04-12,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Ali Malik,alimalik376@student.edu,2023-ME1-0376,03100000376,2001-05-13,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Sara Cheema,saracheema377@student.edu,2023-ME1-0377,03100000377,2002-06-14,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Usman Dar,usmandar378@student.edu,2023-ME1-0378,03100000378,2003-07-15,Female,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Iqra Butt,iqrabutt379@student.edu,2023-ME1-0379,03100000379,2004-08-16,Male,Mechanical Engineering,Bachelor of Science in Mechanical Engineering,regular
+Nida Ghani,nidaghani380@student.edu,2024-ME2-0380,03100000380,2000-09-17,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Sara Ansari,saraansari381@student.edu,2024-ME2-0381,03100000381,2001-10-18,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Iqra Farooq,iqrafarooq382@student.edu,2024-ME2-0382,03100000382,2002-11-19,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Zain Baig,zainbaig383@student.edu,2024-ME2-0383,03100000383,2003-12-20,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Fatima Sheikh,fatimasheikh384@student.edu,2024-ME2-0384,03100000384,2004-01-21,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Sara Chaudhry,sarachaudhry385@student.edu,2024-ME2-0385,03100000385,2000-02-22,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Nida Javed,nidajaved386@student.edu,2024-ME2-0386,03100000386,2001-03-23,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Ayesha Raza,ayesharaza387@student.edu,2024-ME2-0387,03100000387,2002-04-24,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Bilal Farooq,bilalfarooq388@student.edu,2024-ME2-0388,03100000388,2003-05-25,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Amna Khan,amnakhan389@student.edu,2024-ME2-0389,03100000389,2004-06-26,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Fatima Javed,fatimajaved390@student.edu,2024-ME2-0390,03100000390,2000-07-27,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Usman Khan,usmankhan391@student.edu,2024-ME2-0391,03100000391,2001-08-28,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Nida Malik,nidamalik392@student.edu,2024-ME2-0392,03100000392,2002-09-01,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Saad Baig,saadbaig393@student.edu,2024-ME2-0393,03100000393,2003-10-02,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Maryam Javed,maryamjaved394@student.edu,2024-ME2-0394,03100000394,2004-11-03,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hina Mirza,hinamirza395@student.edu,2024-ME2-0395,03100000395,2000-12-04,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Talha Gill,talhagill396@student.edu,2024-ME2-0396,03100000396,2001-01-05,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hamza Rehman,hamzarehman397@student.edu,2024-ME2-0397,03100000397,2002-02-06,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hamza Aslam,hamzaaslam398@student.edu,2024-ME2-0398,03100000398,2003-03-07,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Imran Siddiqui,imransiddiqui399@student.edu,2024-ME2-0399,03100000399,2004-04-08,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Maryam Hussain,maryamhussain400@student.edu,2024-ME2-0400,03100000400,2000-05-09,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Zainab Shah,zainabshah401@student.edu,2024-ME2-0401,03100000401,2001-06-10,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Zain Siddiqui,zainsiddiqui402@student.edu,2024-ME2-0402,03100000402,2002-07-11,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Rida Khan,ridakhan403@student.edu,2024-ME2-0403,03100000403,2003-08-12,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Imran Raza,imranraza404@student.edu,2024-ME2-0404,03100000404,2004-09-13,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Saad Ghani,saadghani405@student.edu,2024-ME2-0405,03100000405,2000-10-14,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Bilal Siddiqui,bilalsiddiqui406@student.edu,2024-ME2-0406,03100000406,2001-11-15,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Bilal Rehman,bilalrehman407@student.edu,2024-ME2-0407,03100000407,2002-12-16,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Danish Bhatti,danishbhatti408@student.edu,2024-ME2-0408,03100000408,2003-01-17,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hassan Baig,hassanbaig409@student.edu,2024-ME2-0409,03100000409,2004-02-18,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Danish Farooq,danishfarooq410@student.edu,2024-ME2-0410,03100000410,2000-03-19,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Fatima Nawaz,fatimanawaz411@student.edu,2024-ME2-0411,03100000411,2001-04-20,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Iqra Ghani,iqraghani412@student.edu,2024-ME2-0412,03100000412,2002-05-21,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Sara Abbasi,saraabbasi413@student.edu,2024-ME2-0413,03100000413,2003-06-22,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Amna Javed,amnajaved414@student.edu,2024-ME2-0414,03100000414,2004-07-23,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Omar Nawaz,omarnawaz415@student.edu,2024-ME2-0415,03100000415,2000-08-24,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Bilal Mirza,bilalmirza416@student.edu,2024-ME2-0416,03100000416,2001-09-25,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Zainab Khan,zainabkhan417@student.edu,2024-ME2-0417,03100000417,2002-10-26,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Faisal Nawaz,faisalnawaz418@student.edu,2024-ME2-0418,03100000418,2003-11-27,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Iqra Ansari,iqraansari419@student.edu,2024-ME2-0419,03100000419,2004-12-28,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Maryam Raza,maryamraza420@student.edu,2024-ME2-0420,03100000420,2000-01-01,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hamza Chaudhry,hamzachaudhry421@student.edu,2024-ME2-0421,03100000421,2001-02-02,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Maryam Ansari,maryamansari422@student.edu,2024-ME2-0422,03100000422,2002-03-03,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hamza Iqbal,hamzaiqbal423@student.edu,2024-ME2-0423,03100000423,2003-04-04,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hassan Shah,hassanshah424@student.edu,2024-ME2-0424,03100000424,2004-05-05,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Saad Farooq,saadfarooq425@student.edu,2023-ME2-0425,03100000425,2000-06-06,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Fatima Raza,fatimaraza426@student.edu,2023-ME2-0426,03100000426,2001-07-07,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Zain Dar,zaindar427@student.edu,2023-ME2-0427,03100000427,2002-08-08,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hassan Javed,hassanjaved428@student.edu,2023-ME2-0428,03100000428,2003-09-09,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Iqra Mirza,iqramirza429@student.edu,2023-ME2-0429,03100000429,2004-10-10,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Saad Nawaz,saadnawaz430@student.edu,2023-ME2-0430,03100000430,2000-11-11,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Kamran Ansari,kamranansari431@student.edu,2023-ME2-0431,03100000431,2001-12-12,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Sara Iqbal,saraiqbal432@student.edu,2023-ME2-0432,03100000432,2002-01-13,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hassan Chaudhry,hassanchaudhry433@student.edu,2023-ME2-0433,03100000433,2003-02-14,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Faisal Sheikh,faisalsheikh434@student.edu,2023-ME2-0434,03100000434,2004-03-15,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Iqra Iqbal,iqraiqbal435@student.edu,2023-ME2-0435,03100000435,2000-04-16,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Iqra Khan,iqrakhan436@student.edu,2023-ME2-0436,03100000436,2001-05-17,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Rida Malik,ridamalik437@student.edu,2023-ME2-0437,03100000437,2002-06-18,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hassan Mirza,hassanmirza438@student.edu,2023-ME2-0438,03100000438,2003-07-19,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Danish Dar,danishdar439@student.edu,2023-ME2-0439,03100000439,2004-08-20,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Zainab Raza,zainabraza440@student.edu,2023-ME2-0440,03100000440,2000-09-21,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Sara Khan,sarakhan441@student.edu,2023-ME2-0441,03100000441,2001-10-22,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Saad Shah,saadshah442@student.edu,2023-ME2-0442,03100000442,2002-11-23,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Talha Dar,talhadar443@student.edu,2023-ME2-0443,03100000443,2003-12-24,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Omar Cheema,omarcheema444@student.edu,2023-ME2-0444,03100000444,2004-01-25,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Faisal Raza,faisalraza445@student.edu,2023-ME2-0445,03100000445,2000-02-26,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Talha Ghani,talhaghani446@student.edu,2023-ME2-0446,03100000446,2001-03-27,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Saad Abbasi,saadabbasi447@student.edu,2023-ME2-0447,03100000447,2002-04-28,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Usman Qureshi,usmanqureshi448@student.edu,2023-ME2-0448,03100000448,2003-05-01,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Hamza Malik,hamzamalik449@student.edu,2023-ME2-0449,03100000449,2004-06-02,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Bilal Bhatti,bilalbhatti450@student.edu,2023-ME2-0450,03100000450,2000-07-03,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Maryam Ghani,maryamghani451@student.edu,2023-ME2-0451,03100000451,2001-08-04,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Faisal Aslam,faisalaslam452@student.edu,2023-ME2-0452,03100000452,2002-09-05,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Zainab Mirza,zainabmirza453@student.edu,2023-ME2-0453,03100000453,2003-10-06,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Ali Butt,alibutt454@student.edu,2023-ME2-0454,03100000454,2004-11-07,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Saad Butt,saadbutt455@student.edu,2023-ME2-0455,03100000455,2000-12-08,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Kamran Siddiqui,kamransiddiqui456@student.edu,2023-ME2-0456,03100000456,2001-01-09,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Maryam Bhatti,maryambhatti457@student.edu,2023-ME2-0457,03100000457,2002-02-10,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Imran Malik,imranmalik458@student.edu,2023-ME2-0458,03100000458,2003-03-11,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Sana Chaudhry,sanachaudhry459@student.edu,2023-ME2-0459,03100000459,2004-04-12,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Usman Ansari,usmanansari460@student.edu,2023-ME2-0460,03100000460,2000-05-13,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Maryam Siddiqui,maryamsiddiqui461@student.edu,2023-ME2-0461,03100000461,2001-06-14,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Kamran Iqbal,kamraniqbal462@student.edu,2023-ME2-0462,03100000462,2002-07-15,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Iqra Dar,iqradar463@student.edu,2023-ME2-0463,03100000463,2003-08-16,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Ali Siddiqui,alisiddiqui464@student.edu,2023-ME2-0464,03100000464,2004-09-17,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Maryam Iqbal,maryamiqbal465@student.edu,2023-ME2-0465,03100000465,2000-10-18,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Zain Nawaz,zainnawaz466@student.edu,2023-ME2-0466,03100000466,2001-11-19,Female,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Maryam Qureshi,maryamqureshi467@student.edu,2023-ME2-0467,03100000467,2002-12-20,Male,Mechanical Engineering,Bachelor of Science in Industrial Engineering,regular
+Ayesha Nawaz,ayeshanawaz468@student.edu,2024-BA1-0468,03100000468,2003-01-21,Female,Business Administration,Bachelor of Business Administration,regular
+Ayesha Sheikh,ayeshasheikh469@student.edu,2024-BA1-0469,03100000469,2004-02-22,Male,Business Administration,Bachelor of Business Administration,regular
+Omar Ansari,omaransari470@student.edu,2024-BA1-0470,03100000470,2000-03-23,Female,Business Administration,Bachelor of Business Administration,regular
+Omar Shah,omarshah471@student.edu,2024-BA1-0471,03100000471,2001-04-24,Male,Business Administration,Bachelor of Business Administration,regular
+Zain Sheikh,zainsheikh472@student.edu,2024-BA1-0472,03100000472,2002-05-25,Female,Business Administration,Bachelor of Business Administration,regular
+Sara Sheikh,sarasheikh473@student.edu,2024-BA1-0473,03100000473,2003-06-26,Male,Business Administration,Bachelor of Business Administration,regular
+Zainab Cheema,zainabcheema474@student.edu,2024-BA1-0474,03100000474,2004-07-27,Female,Business Administration,Bachelor of Business Administration,regular
+Danish Qureshi,danishqureshi475@student.edu,2024-BA1-0475,03100000475,2000-08-28,Male,Business Administration,Bachelor of Business Administration,regular
+Ahmed Butt,ahmedbutt476@student.edu,2024-BA1-0476,03100000476,2001-09-01,Female,Business Administration,Bachelor of Business Administration,regular
+Amna Sheikh,amnasheikh477@student.edu,2024-BA1-0477,03100000477,2002-10-02,Male,Business Administration,Bachelor of Business Administration,regular
+Amna Farooq,amnafarooq478@student.edu,2024-BA1-0478,03100000478,2003-11-03,Female,Business Administration,Bachelor of Business Administration,regular
+Hina Ghani,hinaghani479@student.edu,2024-BA1-0479,03100000479,2004-12-04,Male,Business Administration,Bachelor of Business Administration,regular
+Zain Malik,zainmalik480@student.edu,2024-BA1-0480,03100000480,2000-01-05,Female,Business Administration,Bachelor of Business Administration,regular
+Rida Ghani,ridaghani481@student.edu,2024-BA1-0481,03100000481,2001-02-06,Male,Business Administration,Bachelor of Business Administration,regular
+Bilal Qureshi,bilalqureshi482@student.edu,2024-BA1-0482,03100000482,2002-03-07,Female,Business Administration,Bachelor of Business Administration,regular
+Iqra Qureshi,iqraqureshi483@student.edu,2024-BA1-0483,03100000483,2003-04-08,Male,Business Administration,Bachelor of Business Administration,regular
+Kamran Shah,kamranshah484@student.edu,2024-BA1-0484,03100000484,2004-05-09,Female,Business Administration,Bachelor of Business Administration,regular
+Ayesha Rehman,ayesharehman485@student.edu,2024-BA1-0485,03100000485,2000-06-10,Male,Business Administration,Bachelor of Business Administration,regular
+Faisal Khan,faisalkhan486@student.edu,2024-BA1-0486,03100000486,2001-07-11,Female,Business Administration,Bachelor of Business Administration,regular
+Zain Chaudhry,zainchaudhry487@student.edu,2024-BA1-0487,03100000487,2002-08-12,Male,Business Administration,Bachelor of Business Administration,regular
+Imran Khan,imrankhan488@student.edu,2024-BA1-0488,03100000488,2003-09-13,Female,Business Administration,Bachelor of Business Administration,regular
+Amna Baig,amnabaig489@student.edu,2024-BA1-0489,03100000489,2004-10-14,Male,Business Administration,Bachelor of Business Administration,regular
+Sana Hussain,sanahussain490@student.edu,2024-BA1-0490,03100000490,2000-11-15,Female,Business Administration,Bachelor of Business Administration,regular
+Ayesha Hussain,ayeshahussain491@student.edu,2024-BA1-0491,03100000491,2001-12-16,Male,Business Administration,Bachelor of Business Administration,regular
+Amna Nawaz,amnanawaz492@student.edu,2024-BA1-0492,03100000492,2002-01-17,Female,Business Administration,Bachelor of Business Administration,regular
+Sana Ghani,sanaghani493@student.edu,2024-BA1-0493,03100000493,2003-02-18,Male,Business Administration,Bachelor of Business Administration,regular
+Hamza Baig,hamzabaig494@student.edu,2024-BA1-0494,03100000494,2004-03-19,Female,Business Administration,Bachelor of Business Administration,regular
+Nida Khan,nidakhan495@student.edu,2024-BA1-0495,03100000495,2000-04-20,Male,Business Administration,Bachelor of Business Administration,regular
+Hamza Qureshi,hamzaqureshi496@student.edu,2024-BA1-0496,03100000496,2001-05-21,Female,Business Administration,Bachelor of Business Administration,regular
+Ahmed Shah,ahmedshah497@student.edu,2024-BA1-0497,03100000497,2002-06-22,Male,Business Administration,Bachelor of Business Administration,regular
+Iqra Aslam,iqraaslam498@student.edu,2024-BA1-0498,03100000498,2003-07-23,Female,Business Administration,Bachelor of Business Administration,regular
+Sara Baig,sarabaig499@student.edu,2024-BA1-0499,03100000499,2004-08-24,Male,Business Administration,Bachelor of Business Administration,regular
+Rida Bhatti,ridabhatti500@student.edu,2024-BA1-0500,03100000500,2000-09-25,Female,Business Administration,Bachelor of Business Administration,regular
+Faisal Javed,faisaljaved501@student.edu,2023-BA1-0501,03100000501,2001-10-26,Male,Business Administration,Bachelor of Business Administration,regular
+Imran Aslam,imranaslam502@student.edu,2023-BA1-0502,03100000502,2002-11-27,Female,Business Administration,Bachelor of Business Administration,regular
+Talha Hussain,talhahussain503@student.edu,2023-BA1-0503,03100000503,2003-12-28,Male,Business Administration,Bachelor of Business Administration,regular
+Zainab Baig,zainabbaig504@student.edu,2023-BA1-0504,03100000504,2004-01-01,Female,Business Administration,Bachelor of Business Administration,regular
+Sana Sheikh,sanasheikh505@student.edu,2023-BA1-0505,03100000505,2000-02-02,Male,Business Administration,Bachelor of Business Administration,regular
+Rida Javed,ridajaved506@student.edu,2023-BA1-0506,03100000506,2001-03-03,Female,Business Administration,Bachelor of Business Administration,regular
+Zain Javed,zainjaved507@student.edu,2023-BA1-0507,03100000507,2002-04-04,Male,Business Administration,Bachelor of Business Administration,regular
+Zainab Sheikh,zainabsheikh508@student.edu,2023-BA1-0508,03100000508,2003-05-05,Female,Business Administration,Bachelor of Business Administration,regular
+Hassan Ghani,hassanghani509@student.edu,2023-BA1-0509,03100000509,2004-06-06,Male,Business Administration,Bachelor of Business Administration,regular
+Sana Raza,sanaraza510@student.edu,2023-BA1-0510,03100000510,2000-07-07,Female,Business Administration,Bachelor of Business Administration,regular
+Ayesha Aslam,ayeshaaslam511@student.edu,2023-BA1-0511,03100000511,2001-08-08,Male,Business Administration,Bachelor of Business Administration,regular
+Hassan Hussain,hassanhussain512@student.edu,2023-BA1-0512,03100000512,2002-09-09,Female,Business Administration,Bachelor of Business Administration,regular
+Amna Gill,amnagill513@student.edu,2023-BA1-0513,03100000513,2003-10-10,Male,Business Administration,Bachelor of Business Administration,regular
+Maryam Nawaz,maryamnawaz514@student.edu,2023-BA1-0514,03100000514,2004-11-11,Female,Business Administration,Bachelor of Business Administration,regular
+Ahmed Khan,ahmedkhan515@student.edu,2023-BA1-0515,03100000515,2000-12-12,Male,Business Administration,Bachelor of Business Administration,regular
+Usman Iqbal,usmaniqbal516@student.edu,2023-BA1-0516,03100000516,2001-01-13,Female,Business Administration,Bachelor of Business Administration,regular
+Ayesha Cheema,ayeshacheema517@student.edu,2023-BA1-0517,03100000517,2002-02-14,Male,Business Administration,Bachelor of Business Administration,regular
+Zainab Iqbal,zainabiqbal518@student.edu,2023-BA1-0518,03100000518,2003-03-15,Female,Business Administration,Bachelor of Business Administration,regular
+Talha Shah,talhashah519@student.edu,2023-BA1-0519,03100000519,2004-04-16,Male,Business Administration,Bachelor of Business Administration,regular
+Danish Aslam,danishaslam520@student.edu,2023-BA1-0520,03100000520,2000-05-17,Female,Business Administration,Bachelor of Business Administration,regular
+Nida Abbasi,nidaabbasi521@student.edu,2023-BA1-0521,03100000521,2001-06-18,Male,Business Administration,Bachelor of Business Administration,regular
+Hina Bhatti,hinabhatti522@student.edu,2023-BA1-0522,03100000522,2002-07-19,Female,Business Administration,Bachelor of Business Administration,regular
+Danish Iqbal,danishiqbal523@student.edu,2023-BA1-0523,03100000523,2003-08-20,Male,Business Administration,Bachelor of Business Administration,regular
+Sana Shah,sanashah524@student.edu,2023-BA1-0524,03100000524,2004-09-21,Female,Business Administration,Bachelor of Business Administration,regular
+Faisal Malik,faisalmalik525@student.edu,2023-BA1-0525,03100000525,2000-10-22,Male,Business Administration,Bachelor of Business Administration,regular
+Ayesha Baig,ayeshabaig526@student.edu,2023-BA1-0526,03100000526,2001-11-23,Female,Business Administration,Bachelor of Business Administration,regular
+Sara Mirza,saramirza527@student.edu,2023-BA1-0527,03100000527,2002-12-24,Male,Business Administration,Bachelor of Business Administration,regular
+Faisal Qureshi,faisalqureshi528@student.edu,2023-BA1-0528,03100000528,2003-01-25,Female,Business Administration,Bachelor of Business Administration,regular
+Rida Abbasi,ridaabbasi529@student.edu,2023-BA1-0529,03100000529,2004-02-26,Male,Business Administration,Bachelor of Business Administration,regular
+Sana Rehman,sanarehman530@student.edu,2023-BA1-0530,03100000530,2000-03-27,Female,Business Administration,Bachelor of Business Administration,regular
+Hamza Khan,hamzakhan531@student.edu,2023-BA1-0531,03100000531,2001-04-28,Male,Business Administration,Bachelor of Business Administration,regular
+Ali Javed,alijaved532@student.edu,2023-BA1-0532,03100000532,2002-05-01,Female,Business Administration,Bachelor of Business Administration,regular
+Kamran Dar,kamrandar533@student.edu,2023-BA1-0533,03100000533,2003-06-02,Male,Business Administration,Bachelor of Business Administration,regular
+Ayesha Iqbal,ayeshaiqbal534@student.edu,2023-BA1-0534,03100000534,2004-07-03,Female,Business Administration,Bachelor of Business Administration,regular
+Bilal Iqbal,bilaliqbal535@student.edu,2023-BA1-0535,03100000535,2000-08-04,Male,Business Administration,Bachelor of Business Administration,regular
+Ahmed Bhatti,ahmedbhatti536@student.edu,2023-BA1-0536,03100000536,2001-09-05,Female,Business Administration,Bachelor of Business Administration,regular
+Maryam Aslam,maryamaslam537@student.edu,2024-BA2-0537,03100000537,2002-10-06,Male,Business Administration,Bachelor of Science in Marketing,regular
+Fatima Chaudhry,fatimachaudhry538@student.edu,2024-BA2-0538,03100000538,2003-11-07,Female,Business Administration,Bachelor of Science in Marketing,regular
+Usman Mirza,usmanmirza539@student.edu,2024-BA2-0539,03100000539,2004-12-08,Male,Business Administration,Bachelor of Science in Marketing,regular
+Fatima Khan,fatimakhan540@student.edu,2024-BA2-0540,03100000540,2000-01-09,Female,Business Administration,Bachelor of Science in Marketing,regular
+Faisal Chaudhry,faisalchaudhry541@student.edu,2024-BA2-0541,03100000541,2001-02-10,Male,Business Administration,Bachelor of Science in Marketing,regular
+Maryam Abbasi,maryamabbasi542@student.edu,2024-BA2-0542,03100000542,2002-03-11,Female,Business Administration,Bachelor of Science in Marketing,regular
+Saad Siddiqui,saadsiddiqui543@student.edu,2024-BA2-0543,03100000543,2003-04-12,Male,Business Administration,Bachelor of Science in Marketing,regular
+Rida Siddiqui,ridasiddiqui544@student.edu,2024-BA2-0544,03100000544,2004-05-13,Female,Business Administration,Bachelor of Science in Marketing,regular
+Hassan Aslam,hassanaslam545@student.edu,2024-BA2-0545,03100000545,2000-06-14,Male,Business Administration,Bachelor of Science in Marketing,regular
+Zainab Farooq,zainabfarooq546@student.edu,2024-BA2-0546,03100000546,2001-07-15,Female,Business Administration,Bachelor of Science in Marketing,regular
+Amna Hussain,amnahussain547@student.edu,2024-BA2-0547,03100000547,2002-08-16,Male,Business Administration,Bachelor of Science in Marketing,regular
+Hamza Shah,hamzashah548@student.edu,2024-BA2-0548,03100000548,2003-09-17,Female,Business Administration,Bachelor of Science in Marketing,regular
+Hamza Hussain,hamzahussain549@student.edu,2024-BA2-0549,03100000549,2004-10-18,Male,Business Administration,Bachelor of Science in Marketing,regular
+Ahmed Abbasi,ahmedabbasi550@student.edu,2024-BA2-0550,03100000550,2000-11-19,Female,Business Administration,Bachelor of Science in Marketing,regular
+Usman Rehman,usmanrehman551@student.edu,2024-BA2-0551,03100000551,2001-12-20,Male,Business Administration,Bachelor of Science in Marketing,regular
+Maryam Dar,maryamdar552@student.edu,2024-BA2-0552,03100000552,2002-01-21,Female,Business Administration,Bachelor of Science in Marketing,regular
+Imran Bhatti,imranbhatti553@student.edu,2024-BA2-0553,03100000553,2003-02-22,Male,Business Administration,Bachelor of Science in Marketing,regular
+Sana Siddiqui,sanasiddiqui554@student.edu,2024-BA2-0554,03100000554,2004-03-23,Female,Business Administration,Bachelor of Science in Marketing,regular
+Sara Raza,sararaza555@student.edu,2024-BA2-0555,03100000555,2000-04-24,Male,Business Administration,Bachelor of Science in Marketing,regular
+Omar Abbasi,omarabbasi556@student.edu,2024-BA2-0556,03100000556,2001-05-25,Female,Business Administration,Bachelor of Science in Marketing,regular
+Rida Baig,ridabaig557@student.edu,2024-BA2-0557,03100000557,2002-06-26,Male,Business Administration,Bachelor of Science in Marketing,regular
+Hina Sheikh,hinasheikh558@student.edu,2024-BA2-0558,03100000558,2003-07-27,Female,Business Administration,Bachelor of Science in Marketing,regular
+Imran Rehman,imranrehman559@student.edu,2024-BA2-0559,03100000559,2004-08-28,Male,Business Administration,Bachelor of Science in Marketing,regular
+Ali Rehman,alirehman560@student.edu,2024-BA2-0560,03100000560,2000-09-01,Female,Business Administration,Bachelor of Science in Marketing,regular
+Bilal Butt,bilalbutt561@student.edu,2024-BA2-0561,03100000561,2001-10-02,Male,Business Administration,Bachelor of Science in Marketing,regular
+Rida Aslam,ridaaslam562@student.edu,2024-BA2-0562,03100000562,2002-11-03,Female,Business Administration,Bachelor of Science in Marketing,regular
+Hina Aslam,hinaaslam563@student.edu,2024-BA2-0563,03100000563,2003-12-04,Male,Business Administration,Bachelor of Science in Marketing,regular
+Danish Chaudhry,danishchaudhry564@student.edu,2024-BA2-0564,03100000564,2004-01-05,Female,Business Administration,Bachelor of Science in Marketing,regular
+Nida Shah,nidashah565@student.edu,2024-BA2-0565,03100000565,2000-02-06,Male,Business Administration,Bachelor of Science in Marketing,regular
+Sara Hussain,sarahussain566@student.edu,2024-BA2-0566,03100000566,2001-03-07,Female,Business Administration,Bachelor of Science in Marketing,regular
+Bilal Aslam,bilalaslam567@student.edu,2024-BA2-0567,03100000567,2002-04-08,Male,Business Administration,Bachelor of Science in Marketing,regular
+Sana Abbasi,sanaabbasi568@student.edu,2024-BA2-0568,03100000568,2003-05-09,Female,Business Administration,Bachelor of Science in Marketing,regular
+Ayesha Abbasi,ayeshaabbasi569@student.edu,2024-BA2-0569,03100000569,2004-06-10,Male,Business Administration,Bachelor of Science in Marketing,regular
+Zainab Javed,zainabjaved570@student.edu,2024-BA2-0570,03100000570,2000-07-11,Female,Business Administration,Bachelor of Science in Marketing,regular
+Sara Farooq,sarafarooq571@student.edu,2024-BA2-0571,03100000571,2001-08-12,Male,Business Administration,Bachelor of Science in Marketing,regular
+Amna Butt,amnabutt572@student.edu,2024-BA2-0572,03100000572,2002-09-13,Female,Business Administration,Bachelor of Science in Marketing,regular
+Amna Abbasi,amnaabbasi573@student.edu,2024-BA2-0573,03100000573,2003-10-14,Male,Business Administration,Bachelor of Science in Marketing,regular
+Omar Dar,omardar574@student.edu,2024-BA2-0574,03100000574,2004-11-15,Female,Business Administration,Bachelor of Science in Marketing,regular
+Fatima Abbasi,fatimaabbasi575@student.edu,2024-BA2-0575,03100000575,2000-12-16,Male,Business Administration,Bachelor of Science in Marketing,regular
+Zainab Nawaz,zainabnawaz576@student.edu,2024-BA2-0576,03100000576,2001-01-17,Female,Business Administration,Bachelor of Science in Marketing,regular
+Danish Raza,danishraza577@student.edu,2024-BA2-0577,03100000577,2002-02-18,Male,Business Administration,Bachelor of Science in Marketing,regular
+Hassan Farooq,hassanfarooq578@student.edu,2024-BA2-0578,03100000578,2003-03-19,Female,Business Administration,Bachelor of Science in Marketing,regular
+Zainab Butt,zainabbutt579@student.edu,2023-BA2-0579,03100000579,2004-04-20,Male,Business Administration,Bachelor of Science in Marketing,regular
+Bilal Raza,bilalraza580@student.edu,2023-BA2-0580,03100000580,2000-05-21,Female,Business Administration,Bachelor of Science in Marketing,regular
+Amna Cheema,amnacheema581@student.edu,2023-BA2-0581,03100000581,2001-06-22,Male,Business Administration,Bachelor of Science in Marketing,regular
+Ahmed Baig,ahmedbaig582@student.edu,2023-BA2-0582,03100000582,2002-07-23,Female,Business Administration,Bachelor of Science in Marketing,regular
+Ahmed Ghani,ahmedghani583@student.edu,2023-BA2-0583,03100000583,2003-08-24,Male,Business Administration,Bachelor of Science in Marketing,regular
+Talha Javed,talhajaved584@student.edu,2023-BA2-0584,03100000584,2004-09-25,Female,Business Administration,Bachelor of Science in Marketing,regular
+Omar Gill,omargill585@student.edu,2023-BA2-0585,03100000585,2000-10-26,Male,Business Administration,Bachelor of Science in Marketing,regular
+Rida Mirza,ridamirza586@student.edu,2023-BA2-0586,03100000586,2001-11-27,Female,Business Administration,Bachelor of Science in Marketing,regular
+Ayesha Chaudhry,ayeshachaudhry587@student.edu,2023-BA2-0587,03100000587,2002-12-28,Male,Business Administration,Bachelor of Science in Marketing,regular
+Hassan Iqbal,hassaniqbal588@student.edu,2023-BA2-0588,03100000588,2003-01-01,Female,Business Administration,Bachelor of Science in Marketing,regular
+Hina Chaudhry,hinachaudhry589@student.edu,2023-BA2-0589,03100000589,2004-02-02,Male,Business Administration,Bachelor of Science in Marketing,regular
+Nida Cheema,nidacheema590@student.edu,2023-BA2-0590,03100000590,2000-03-03,Female,Business Administration,Bachelor of Science in Marketing,regular
+Amna Ghani,amnaghani591@student.edu,2023-BA2-0591,03100000591,2001-04-04,Male,Business Administration,Bachelor of Science in Marketing,regular
+Danish Baig,danishbaig592@student.edu,2023-BA2-0592,03100000592,2002-05-05,Female,Business Administration,Bachelor of Science in Marketing,regular
+Bilal Chaudhry,bilalchaudhry593@student.edu,2023-BA2-0593,03100000593,2003-06-06,Male,Business Administration,Bachelor of Science in Marketing,regular
+Zainab Bhatti,zainabbhatti594@student.edu,2023-BA2-0594,03100000594,2004-07-07,Female,Business Administration,Bachelor of Science in Marketing,regular
+Fatima Ghani,fatimaghani595@student.edu,2023-BA2-0595,03100000595,2000-08-08,Male,Business Administration,Bachelor of Science in Marketing,regular
+Faisal Baig,faisalbaig596@student.edu,2023-BA2-0596,03100000596,2001-09-09,Female,Business Administration,Bachelor of Science in Marketing,regular
+Talha Mirza,talhamirza597@student.edu,2023-BA2-0597,03100000597,2002-10-10,Male,Business Administration,Bachelor of Science in Marketing,regular
+Zainab Rehman,zainabrehman598@student.edu,2023-BA2-0598,03100000598,2003-11-11,Female,Business Administration,Bachelor of Science in Marketing,regular
+Kamran Khan,kamrankhan599@student.edu,2023-BA2-0599,03100000599,2004-12-12,Male,Business Administration,Bachelor of Science in Marketing,regular
+Usman Cheema,usmancheema600@student.edu,2023-BA2-0600,03100000600,2000-01-13,Female,Business Administration,Bachelor of Science in Marketing,regular
+Ahmed Hussain,ahmedhussain601@student.edu,2023-BA2-0601,03100000601,2001-02-14,Male,Business Administration,Bachelor of Science in Marketing,regular
+Saad Khan,saadkhan602@student.edu,2023-BA2-0602,03100000602,2002-03-15,Female,Business Administration,Bachelor of Science in Marketing,regular
+Zain Hussain,zainhussain603@student.edu,2023-BA2-0603,03100000603,2003-04-16,Male,Business Administration,Bachelor of Science in Marketing,regular
+Ali Nawaz,alinawaz604@student.edu,2023-BA2-0604,03100000604,2004-05-17,Female,Business Administration,Bachelor of Science in Marketing,regular
+Usman Raza,usmanraza605@student.edu,2023-BA2-0605,03100000605,2000-06-18,Male,Business Administration,Bachelor of Science in Marketing,regular
+Hamza Ghani,hamzaghani606@student.edu,2023-BA2-0606,03100000606,2001-07-19,Female,Business Administration,Bachelor of Science in Marketing,regular
+Kamran Chaudhry,kamranchaudhry607@student.edu,2023-BA2-0607,03100000607,2002-08-20,Male,Business Administration,Bachelor of Science in Marketing,regular
+Saad Ansari,saadansari608@student.edu,2023-BA2-0608,03100000608,2003-09-21,Female,Business Administration,Bachelor of Science in Marketing,regular
+Zain Gill,zaingill609@student.edu,2023-BA2-0609,03100000609,2004-10-22,Male,Business Administration,Bachelor of Science in Marketing,regular
+Bilal Khan,bilalkhan610@student.edu,2023-BA2-0610,03100000610,2000-11-23,Female,Business Administration,Bachelor of Science in Marketing,regular
+Iqra Baig,iqrabaig611@student.edu,2023-BA2-0611,03100000611,2001-12-24,Male,Business Administration,Bachelor of Science in Marketing,regular
+Rida Rehman,ridarehman612@student.edu,2023-BA2-0612,03100000612,2002-01-25,Female,Business Administration,Bachelor of Science in Marketing,regular
+Usman Hussain,usmanhussain613@student.edu,2023-BA2-0613,03100000613,2003-02-26,Male,Business Administration,Bachelor of Science in Marketing,regular
+Rida Shah,ridashah614@student.edu,2023-BA2-0614,03100000614,2004-03-27,Female,Business Administration,Bachelor of Science in Marketing,regular

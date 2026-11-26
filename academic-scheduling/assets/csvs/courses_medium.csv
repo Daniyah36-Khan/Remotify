@@ -1,0 +1,211 @@
+course_code,course_name,credit_hours,requires_equipment,department_name,program_name
+CS101,Foundations of Computer Science 1,3-0-3,Projector;Whiteboard,Computer Science,Bachelor of Science in Computer Science
+CS102,Principles of Computer Science 1,3-0-3,Whiteboard;Fan;Light,Computer Science,Bachelor of Science in Computer Science
+CS103,Applied Computer Science 1,3-1-3,PC;AC;Light,Computer Science,Bachelor of Science in Computer Science
+CS104,Seminar in Computer Science 1,2-0-2,Projector;AC,Computer Science,Bachelor of Science in Computer Science
+CS105,Computer Science Laboratory 1,0-1-1,PC;Light,Computer Science,Bachelor of Science in Computer Science
+CS106,Foundations of Computer Science 3,3-0-3,Projector;Whiteboard,Computer Science,Bachelor of Science in Computer Science
+CS107,Principles of Computer Science 3,3-0-3,Whiteboard;Fan;Light,Computer Science,Bachelor of Science in Computer Science
+CS108,Applied Computer Science 3,3-1-3,PC;AC;Light,Computer Science,Bachelor of Science in Computer Science
+CS109,Seminar in Computer Science 3,2-0-2,Projector;AC,Computer Science,Bachelor of Science in Computer Science
+CS110,Computer Science Laboratory 3,0-1-1,PC;Light,Computer Science,Bachelor of Science in Computer Science
+CS111,Foundations of Computer Science 5,3-0-3,Projector;Whiteboard,Computer Science,Bachelor of Science in Computer Science
+CS112,Principles of Computer Science 5,3-0-3,Whiteboard;Fan;Light,Computer Science,Bachelor of Science in Computer Science
+CS113,Applied Computer Science 5,3-1-3,PC;AC;Light,Computer Science,Bachelor of Science in Computer Science
+CS114,Seminar in Computer Science 5,2-0-2,Projector;AC,Computer Science,Bachelor of Science in Computer Science
+CS115,Computer Science Laboratory 5,0-1-1,PC;Light,Computer Science,Bachelor of Science in Computer Science
+CS116,Foundations of Software Engineering 1,3-0-3,Projector;Whiteboard,Computer Science,Bachelor of Science in Software Engineering
+CS117,Principles of Software Engineering 1,3-0-3,Whiteboard;Fan;Light,Computer Science,Bachelor of Science in Software Engineering
+CS118,Applied Software Engineering 1,3-1-3,PC;AC;Light,Computer Science,Bachelor of Science in Software Engineering
+CS119,Seminar in Software Engineering 1,2-0-2,Projector;AC,Computer Science,Bachelor of Science in Software Engineering
+CS120,Software Engineering Laboratory 1,0-1-1,PC;Light,Computer Science,Bachelor of Science in Software Engineering
+CS121,Foundations of Software Engineering 3,3-0-3,Projector;Whiteboard,Computer Science,Bachelor of Science in Software Engineering
+CS122,Principles of Software Engineering 3,3-0-3,Whiteboard;Fan;Light,Computer Science,Bachelor of Science in Software Engineering
+CS123,Applied Software Engineering 3,3-1-3,PC;AC;Light,Computer Science,Bachelor of Science in Software Engineering
+CS124,Seminar in Software Engineering 3,2-0-2,Projector;AC,Computer Science,Bachelor of Science in Software Engineering
+CS125,Software Engineering Laboratory 3,0-1-1,PC;Light,Computer Science,Bachelor of Science in Software Engineering
+CS126,Foundations of Software Engineering 5,3-0-3,Projector;Whiteboard,Computer Science,Bachelor of Science in Software Engineering
+CS127,Principles of Software Engineering 5,3-0-3,Whiteboard;Fan;Light,Computer Science,Bachelor of Science in Software Engineering
+CS128,Applied Software Engineering 5,3-1-3,PC;AC;Light,Computer Science,Bachelor of Science in Software Engineering
+CS129,Seminar in Software Engineering 5,2-0-2,Projector;AC,Computer Science,Bachelor of Science in Software Engineering
+CS130,Software Engineering Laboratory 5,0-1-1,PC;Light,Computer Science,Bachelor of Science in Software Engineering
+EE101,Foundations of Electrical Engineering 1,3-0-3,Projector;Whiteboard,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE102,Principles of Electrical Engineering 1,3-0-3,Whiteboard;Fan;Light,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE103,Applied Electrical Engineering 1,3-1-3,PC;AC;Light,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE104,Seminar in Electrical Engineering 1,2-0-2,Projector;AC,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE105,Electrical Engineering Laboratory 1,0-1-1,PC;Light,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE106,Foundations of Electrical Engineering 3,3-0-3,Projector;Whiteboard,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE107,Principles of Electrical Engineering 3,3-0-3,Whiteboard;Fan;Light,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE108,Applied Electrical Engineering 3,3-1-3,PC;AC;Light,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE109,Seminar in Electrical Engineering 3,2-0-2,Projector;AC,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE110,Electrical Engineering Laboratory 3,0-1-1,PC;Light,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE111,Foundations of Electrical Engineering 5,3-0-3,Projector;Whiteboard,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE112,Principles of Electrical Engineering 5,3-0-3,Whiteboard;Fan;Light,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE113,Applied Electrical Engineering 5,3-1-3,PC;AC;Light,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE114,Seminar in Electrical Engineering 5,2-0-2,Projector;AC,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE115,Electrical Engineering Laboratory 5,0-1-1,PC;Light,Electrical Engineering,Bachelor of Science in Electrical Engineering
+EE116,Foundations of Electronics Engineering 1,3-0-3,Projector;Whiteboard,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE117,Principles of Electronics Engineering 1,3-0-3,Whiteboard;Fan;Light,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE118,Applied Electronics Engineering 1,3-1-3,PC;AC;Light,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE119,Seminar in Electronics Engineering 1,2-0-2,Projector;AC,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE120,Electronics Engineering Laboratory 1,0-1-1,PC;Light,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE121,Foundations of Electronics Engineering 3,3-0-3,Projector;Whiteboard,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE122,Principles of Electronics Engineering 3,3-0-3,Whiteboard;Fan;Light,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE123,Applied Electronics Engineering 3,3-1-3,PC;AC;Light,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE124,Seminar in Electronics Engineering 3,2-0-2,Projector;AC,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE125,Electronics Engineering Laboratory 3,0-1-1,PC;Light,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE126,Foundations of Electronics Engineering 5,3-0-3,Projector;Whiteboard,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE127,Principles of Electronics Engineering 5,3-0-3,Whiteboard;Fan;Light,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE128,Applied Electronics Engineering 5,3-1-3,PC;AC;Light,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE129,Seminar in Electronics Engineering 5,2-0-2,Projector;AC,Electrical Engineering,Bachelor of Science in Electronics Engineering
+EE130,Electronics Engineering Laboratory 5,0-1-1,PC;Light,Electrical Engineering,Bachelor of Science in Electronics Engineering
+ME101,Foundations of Mechanical Engineering 1,3-0-3,Projector;Whiteboard,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME102,Principles of Mechanical Engineering 1,3-0-3,Whiteboard;Fan;Light,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME103,Applied Mechanical Engineering 1,3-1-3,PC;AC;Light,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME104,Seminar in Mechanical Engineering 1,2-0-2,Projector;AC,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME105,Mechanical Engineering Laboratory 1,0-1-1,PC;Light,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME106,Foundations of Mechanical Engineering 3,3-0-3,Projector;Whiteboard,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME107,Principles of Mechanical Engineering 3,3-0-3,Whiteboard;Fan;Light,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME108,Applied Mechanical Engineering 3,3-1-3,PC;AC;Light,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME109,Seminar in Mechanical Engineering 3,2-0-2,Projector;AC,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME110,Mechanical Engineering Laboratory 3,0-1-1,PC;Light,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME111,Foundations of Mechanical Engineering 5,3-0-3,Projector;Whiteboard,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME112,Principles of Mechanical Engineering 5,3-0-3,Whiteboard;Fan;Light,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME113,Applied Mechanical Engineering 5,3-1-3,PC;AC;Light,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME114,Seminar in Mechanical Engineering 5,2-0-2,Projector;AC,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME115,Mechanical Engineering Laboratory 5,0-1-1,PC;Light,Mechanical Engineering,Bachelor of Science in Mechanical Engineering
+ME116,Foundations of Industrial Engineering 1,3-0-3,Projector;Whiteboard,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME117,Principles of Industrial Engineering 1,3-0-3,Whiteboard;Fan;Light,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME118,Applied Industrial Engineering 1,3-1-3,PC;AC;Light,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME119,Seminar in Industrial Engineering 1,2-0-2,Projector;AC,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME120,Industrial Engineering Laboratory 1,0-1-1,PC;Light,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME121,Foundations of Industrial Engineering 3,3-0-3,Projector;Whiteboard,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME122,Principles of Industrial Engineering 3,3-0-3,Whiteboard;Fan;Light,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME123,Applied Industrial Engineering 3,3-1-3,PC;AC;Light,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME124,Seminar in Industrial Engineering 3,2-0-2,Projector;AC,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME125,Industrial Engineering Laboratory 3,0-1-1,PC;Light,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME126,Foundations of Industrial Engineering 5,3-0-3,Projector;Whiteboard,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME127,Principles of Industrial Engineering 5,3-0-3,Whiteboard;Fan;Light,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME128,Applied Industrial Engineering 5,3-1-3,PC;AC;Light,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME129,Seminar in Industrial Engineering 5,2-0-2,Projector;AC,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+ME130,Industrial Engineering Laboratory 5,0-1-1,PC;Light,Mechanical Engineering,Bachelor of Science in Industrial Engineering
+BA101,Foundations of Business Administration 1,3-0-3,Projector;Whiteboard,Business Administration,Bachelor of Business Administration
+BA102,Principles of Business Administration 1,3-0-3,Whiteboard;Fan;Light,Business Administration,Bachelor of Business Administration
+BA103,Applied Business Administration 1,3-1-3,PC;AC;Light,Business Administration,Bachelor of Business Administration
+BA104,Seminar in Business Administration 1,2-0-2,Projector;AC,Business Administration,Bachelor of Business Administration
+BA105,Business Administration Laboratory 1,0-1-1,PC;Light,Business Administration,Bachelor of Business Administration
+BA106,Foundations of Business Administration 3,3-0-3,Projector;Whiteboard,Business Administration,Bachelor of Business Administration
+BA107,Principles of Business Administration 3,3-0-3,Whiteboard;Fan;Light,Business Administration,Bachelor of Business Administration
+BA108,Applied Business Administration 3,3-1-3,PC;AC;Light,Business Administration,Bachelor of Business Administration
+BA109,Seminar in Business Administration 3,2-0-2,Projector;AC,Business Administration,Bachelor of Business Administration
+BA110,Business Administration Laboratory 3,0-1-1,PC;Light,Business Administration,Bachelor of Business Administration
+BA111,Foundations of Business Administration 5,3-0-3,Projector;Whiteboard,Business Administration,Bachelor of Business Administration
+BA112,Principles of Business Administration 5,3-0-3,Whiteboard;Fan;Light,Business Administration,Bachelor of Business Administration
+BA113,Applied Business Administration 5,3-1-3,PC;AC;Light,Business Administration,Bachelor of Business Administration
+BA114,Seminar in Business Administration 5,2-0-2,Projector;AC,Business Administration,Bachelor of Business Administration
+BA115,Business Administration Laboratory 5,0-1-1,PC;Light,Business Administration,Bachelor of Business Administration
+BA116,Foundations of Marketing 1,3-0-3,Projector;Whiteboard,Business Administration,Bachelor of Science in Marketing
+BA117,Principles of Marketing 1,3-0-3,Whiteboard;Fan;Light,Business Administration,Bachelor of Science in Marketing
+BA118,Applied Marketing 1,3-1-3,PC;AC;Light,Business Administration,Bachelor of Science in Marketing
+BA119,Seminar in Marketing 1,2-0-2,Projector;AC,Business Administration,Bachelor of Science in Marketing
+BA120,Marketing Laboratory 1,0-1-1,PC;Light,Business Administration,Bachelor of Science in Marketing
+BA121,Foundations of Marketing 3,3-0-3,Projector;Whiteboard,Business Administration,Bachelor of Science in Marketing
+BA122,Principles of Marketing 3,3-0-3,Whiteboard;Fan;Light,Business Administration,Bachelor of Science in Marketing
+BA123,Applied Marketing 3,3-1-3,PC;AC;Light,Business Administration,Bachelor of Science in Marketing
+BA124,Seminar in Marketing 3,2-0-2,Projector;AC,Business Administration,Bachelor of Science in Marketing
+BA125,Marketing Laboratory 3,0-1-1,PC;Light,Business Administration,Bachelor of Science in Marketing
+BA126,Foundations of Marketing 5,3-0-3,Projector;Whiteboard,Business Administration,Bachelor of Science in Marketing
+BA127,Principles of Marketing 5,3-0-3,Whiteboard;Fan;Light,Business Administration,Bachelor of Science in Marketing
+BA128,Applied Marketing 5,3-1-3,PC;AC;Light,Business Administration,Bachelor of Science in Marketing
+BA129,Seminar in Marketing 5,2-0-2,Projector;AC,Business Administration,Bachelor of Science in Marketing
+BA130,Marketing Laboratory 5,0-1-1,PC;Light,Business Administration,Bachelor of Science in Marketing
+MT101,Foundations of Mathematics 1,3-0-3,Projector;Whiteboard,Mathematics,Bachelor of Science in Mathematics
+MT102,Principles of Mathematics 1,3-0-3,Whiteboard;Fan;Light,Mathematics,Bachelor of Science in Mathematics
+MT103,Applied Mathematics 1,3-1-3,PC;AC;Light,Mathematics,Bachelor of Science in Mathematics
+MT104,Seminar in Mathematics 1,2-0-2,Projector;AC,Mathematics,Bachelor of Science in Mathematics
+MT105,Mathematics Laboratory 1,0-1-1,PC;Light,Mathematics,Bachelor of Science in Mathematics
+MT106,Foundations of Mathematics 3,3-0-3,Projector;Whiteboard,Mathematics,Bachelor of Science in Mathematics
+MT107,Principles of Mathematics 3,3-0-3,Whiteboard;Fan;Light,Mathematics,Bachelor of Science in Mathematics
+MT108,Applied Mathematics 3,3-1-3,PC;AC;Light,Mathematics,Bachelor of Science in Mathematics
+MT109,Seminar in Mathematics 3,2-0-2,Projector;AC,Mathematics,Bachelor of Science in Mathematics
+MT110,Mathematics Laboratory 3,0-1-1,PC;Light,Mathematics,Bachelor of Science in Mathematics
+MT111,Foundations of Mathematics 5,3-0-3,Projector;Whiteboard,Mathematics,Bachelor of Science in Mathematics
+MT112,Principles of Mathematics 5,3-0-3,Whiteboard;Fan;Light,Mathematics,Bachelor of Science in Mathematics
+MT113,Applied Mathematics 5,3-1-3,PC;AC;Light,Mathematics,Bachelor of Science in Mathematics
+MT114,Seminar in Mathematics 5,2-0-2,Projector;AC,Mathematics,Bachelor of Science in Mathematics
+MT115,Mathematics Laboratory 5,0-1-1,PC;Light,Mathematics,Bachelor of Science in Mathematics
+MT116,Foundations of Statistics 1,3-0-3,Projector;Whiteboard,Mathematics,Bachelor of Science in Statistics
+MT117,Principles of Statistics 1,3-0-3,Whiteboard;Fan;Light,Mathematics,Bachelor of Science in Statistics
+MT118,Applied Statistics 1,3-1-3,PC;AC;Light,Mathematics,Bachelor of Science in Statistics
+MT119,Seminar in Statistics 1,2-0-2,Projector;AC,Mathematics,Bachelor of Science in Statistics
+MT120,Statistics Laboratory 1,0-1-1,PC;Light,Mathematics,Bachelor of Science in Statistics
+MT121,Foundations of Statistics 3,3-0-3,Projector;Whiteboard,Mathematics,Bachelor of Science in Statistics
+MT122,Principles of Statistics 3,3-0-3,Whiteboard;Fan;Light,Mathematics,Bachelor of Science in Statistics
+MT123,Applied Statistics 3,3-1-3,PC;AC;Light,Mathematics,Bachelor of Science in Statistics
+MT124,Seminar in Statistics 3,2-0-2,Projector;AC,Mathematics,Bachelor of Science in Statistics
+MT125,Statistics Laboratory 3,0-1-1,PC;Light,Mathematics,Bachelor of Science in Statistics
+MT126,Foundations of Statistics 5,3-0-3,Projector;Whiteboard,Mathematics,Bachelor of Science in Statistics
+MT127,Principles of Statistics 5,3-0-3,Whiteboard;Fan;Light,Mathematics,Bachelor of Science in Statistics
+MT128,Applied Statistics 5,3-1-3,PC;AC;Light,Mathematics,Bachelor of Science in Statistics
+MT129,Seminar in Statistics 5,2-0-2,Projector;AC,Mathematics,Bachelor of Science in Statistics
+MT130,Statistics Laboratory 5,0-1-1,PC;Light,Mathematics,Bachelor of Science in Statistics
+PH101,Foundations of Physics 1,3-0-3,Projector;Whiteboard,Physics,Bachelor of Science in Physics
+PH102,Principles of Physics 1,3-0-3,Whiteboard;Fan;Light,Physics,Bachelor of Science in Physics
+PH103,Applied Physics 1,3-1-3,PC;AC;Light,Physics,Bachelor of Science in Physics
+PH104,Seminar in Physics 1,2-0-2,Projector;AC,Physics,Bachelor of Science in Physics
+PH105,Physics Laboratory 1,0-1-1,PC;Light,Physics,Bachelor of Science in Physics
+PH106,Foundations of Physics 3,3-0-3,Projector;Whiteboard,Physics,Bachelor of Science in Physics
+PH107,Principles of Physics 3,3-0-3,Whiteboard;Fan;Light,Physics,Bachelor of Science in Physics
+PH108,Applied Physics 3,3-1-3,PC;AC;Light,Physics,Bachelor of Science in Physics
+PH109,Seminar in Physics 3,2-0-2,Projector;AC,Physics,Bachelor of Science in Physics
+PH110,Physics Laboratory 3,0-1-1,PC;Light,Physics,Bachelor of Science in Physics
+PH111,Foundations of Physics 5,3-0-3,Projector;Whiteboard,Physics,Bachelor of Science in Physics
+PH112,Principles of Physics 5,3-0-3,Whiteboard;Fan;Light,Physics,Bachelor of Science in Physics
+PH113,Applied Physics 5,3-1-3,PC;AC;Light,Physics,Bachelor of Science in Physics
+PH114,Seminar in Physics 5,2-0-2,Projector;AC,Physics,Bachelor of Science in Physics
+PH115,Physics Laboratory 5,0-1-1,PC;Light,Physics,Bachelor of Science in Physics
+PH116,Foundations of Applied Physics 1,3-0-3,Projector;Whiteboard,Physics,Bachelor of Science in Applied Physics
+PH117,Principles of Applied Physics 1,3-0-3,Whiteboard;Fan;Light,Physics,Bachelor of Science in Applied Physics
+PH118,Applied Applied Physics 1,3-1-3,PC;AC;Light,Physics,Bachelor of Science in Applied Physics
+PH119,Seminar in Applied Physics 1,2-0-2,Projector;AC,Physics,Bachelor of Science in Applied Physics
+PH120,Applied Physics Laboratory 1,0-1-1,PC;Light,Physics,Bachelor of Science in Applied Physics
+PH121,Foundations of Applied Physics 3,3-0-3,Projector;Whiteboard,Physics,Bachelor of Science in Applied Physics
+PH122,Principles of Applied Physics 3,3-0-3,Whiteboard;Fan;Light,Physics,Bachelor of Science in Applied Physics
+PH123,Applied Applied Physics 3,3-1-3,PC;AC;Light,Physics,Bachelor of Science in Applied Physics
+PH124,Seminar in Applied Physics 3,2-0-2,Projector;AC,Physics,Bachelor of Science in Applied Physics
+PH125,Applied Physics Laboratory 3,0-1-1,PC;Light,Physics,Bachelor of Science in Applied Physics
+PH126,Foundations of Applied Physics 5,3-0-3,Projector;Whiteboard,Physics,Bachelor of Science in Applied Physics
+PH127,Principles of Applied Physics 5,3-0-3,Whiteboard;Fan;Light,Physics,Bachelor of Science in Applied Physics
+PH128,Applied Applied Physics 5,3-1-3,PC;AC;Light,Physics,Bachelor of Science in Applied Physics
+PH129,Seminar in Applied Physics 5,2-0-2,Projector;AC,Physics,Bachelor of Science in Applied Physics
+PH130,Applied Physics Laboratory 5,0-1-1,PC;Light,Physics,Bachelor of Science in Applied Physics
+CE101,Foundations of Civil Engineering 1,3-0-3,Projector;Whiteboard,Civil Engineering,Bachelor of Science in Civil Engineering
+CE102,Principles of Civil Engineering 1,3-0-3,Whiteboard;Fan;Light,Civil Engineering,Bachelor of Science in Civil Engineering
+CE103,Applied Civil Engineering 1,3-1-3,PC;AC;Light,Civil Engineering,Bachelor of Science in Civil Engineering
+CE104,Seminar in Civil Engineering 1,2-0-2,Projector;AC,Civil Engineering,Bachelor of Science in Civil Engineering
+CE105,Civil Engineering Laboratory 1,0-1-1,PC;Light,Civil Engineering,Bachelor of Science in Civil Engineering
+CE106,Foundations of Civil Engineering 3,3-0-3,Projector;Whiteboard,Civil Engineering,Bachelor of Science in Civil Engineering
+CE107,Principles of Civil Engineering 3,3-0-3,Whiteboard;Fan;Light,Civil Engineering,Bachelor of Science in Civil Engineering
+CE108,Applied Civil Engineering 3,3-1-3,PC;AC;Light,Civil Engineering,Bachelor of Science in Civil Engineering
+CE109,Seminar in Civil Engineering 3,2-0-2,Projector;AC,Civil Engineering,Bachelor of Science in Civil Engineering
+CE110,Civil Engineering Laboratory 3,0-1-1,PC;Light,Civil Engineering,Bachelor of Science in Civil Engineering
+CE111,Foundations of Civil Engineering 5,3-0-3,Projector;Whiteboard,Civil Engineering,Bachelor of Science in Civil Engineering
+CE112,Principles of Civil Engineering 5,3-0-3,Whiteboard;Fan;Light,Civil Engineering,Bachelor of Science in Civil Engineering
+CE113,Applied Civil Engineering 5,3-1-3,PC;AC;Light,Civil Engineering,Bachelor of Science in Civil Engineering
+CE114,Seminar in Civil Engineering 5,2-0-2,Projector;AC,Civil Engineering,Bachelor of Science in Civil Engineering
+CE115,Civil Engineering Laboratory 5,0-1-1,PC;Light,Civil Engineering,Bachelor of Science in Civil Engineering
+CE116,Foundations of Structural Engineering 1,3-0-3,Projector;Whiteboard,Civil Engineering,Bachelor of Science in Structural Engineering
+CE117,Principles of Structural Engineering 1,3-0-3,Whiteboard;Fan;Light,Civil Engineering,Bachelor of Science in Structural Engineering
+CE118,Applied Structural Engineering 1,3-1-3,PC;AC;Light,Civil Engineering,Bachelor of Science in Structural Engineering
+CE119,Seminar in Structural Engineering 1,2-0-2,Projector;AC,Civil Engineering,Bachelor of Science in Structural Engineering
+CE120,Structural Engineering Laboratory 1,0-1-1,PC;Light,Civil Engineering,Bachelor of Science in Structural Engineering
+CE121,Foundations of Structural Engineering 3,3-0-3,Projector;Whiteboard,Civil Engineering,Bachelor of Science in Structural Engineering
+CE122,Principles of Structural Engineering 3,3-0-3,Whiteboard;Fan;Light,Civil Engineering,Bachelor of Science in Structural Engineering
+CE123,Applied Structural Engineering 3,3-1-3,PC;AC;Light,Civil Engineering,Bachelor of Science in Structural Engineering
+CE124,Seminar in Structural Engineering 3,2-0-2,Projector;AC,Civil Engineering,Bachelor of Science in Structural Engineering
+CE125,Structural Engineering Laboratory 3,0-1-1,PC;Light,Civil Engineering,Bachelor of Science in Structural Engineering
+CE126,Foundations of Structural Engineering 5,3-0-3,Projector;Whiteboard,Civil Engineering,Bachelor of Science in Structural Engineering
+CE127,Principles of Structural Engineering 5,3-0-3,Whiteboard;Fan;Light,Civil Engineering,Bachelor of Science in Structural Engineering
+CE128,Applied Structural Engineering 5,3-1-3,PC;AC;Light,Civil Engineering,Bachelor of Science in Structural Engineering
+CE129,Seminar in Structural Engineering 5,2-0-2,Projector;AC,Civil Engineering,Bachelor of Science in Structural Engineering
+CE130,Structural Engineering Laboratory 5,0-1-1,PC;Light,Civil Engineering,Bachelor of Science in Structural Engineering
