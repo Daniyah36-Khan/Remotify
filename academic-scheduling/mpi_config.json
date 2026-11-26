@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "processes": 4,
+  "seconds": 120,
+  "python": "python",
+  "mpiexec": "mpiexec"
+}

@@ -1,0 +1,7 @@
+{
+  "default_min_fraction": 0.6,
+  "default_base_share": 0,
+  "min_fraction": { "pc": 0.75, "ac": 0.5, "fan": 0.6, "light": 0.6 },
+  "base_share":   { },
+  "aliases":      { "computers": "pc", "computer": "pc", "pcs": "pc", "acs": "ac" }
+}
