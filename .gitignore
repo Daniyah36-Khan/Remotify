@@ -1,0 +1,21 @@
+# Local / generated
+agent_key.php
+*.log
+*.out
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Local backups and scratch
+_backup_before_equipment_update/
+badrun.sql
+
+# Editor
+.vscode/
+.idea/
+
+# Data exports and large local dumps
+*.sql.bak
+*.zip
