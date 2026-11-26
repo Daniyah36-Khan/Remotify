@@ -1,0 +1,149 @@
+/* assets/css/landing.css */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+/* assets/css/landing.css */
+
+/* 1. Default Transparent Navbar (White Text) */
+.navbar {
+    transition: all 0.3s ease-in-out;
+    padding: 1.5rem 0;
+    background: transparent;
+}
+
+/* 2. Scrolled Navbar (White Background, Dark Text) */
+.navbar.scrolled {
+    background-color: #ffffff !important;
+    /* White Background */
+    padding: 0.8rem 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* 3. Force Link Colors based on state */
+/* Default state: Links are White */
+.navbar-dark .nav-link {
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.navbar-dark .navbar-brand {
+    color: #fff !important;
+}
+
+/* Scrolled state: Links are Black/Dark */
+.navbar-light .nav-link {
+    color: #333 !important;
+}
+
+.navbar-light .nav-link:hover {
+    color: #0d6efd !important;
+    /* Blue on hover */
+}
+
+.navbar-light .navbar-brand {
+    color: #000 !important;
+}
+
+/* Change the toggle button color on mobile */
+.navbar-light .navbar-toggler {
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(0, 0, 0, 0.55)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/* Hero Section */
+.hero-section {
+    height: 100vh;
+    background: url('https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80') no-repeat center center/cover;
+    position: relative;
+    margin-top: -80px;
+    /* Pull up behind navbar */
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.6) 100%);
+}
+
+/* Cards */
+.feature-card {
+    transition: transform 0.3s ease;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.feature-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Pricing Highlight */
+.ribbon {
+    position: absolute;
+    top: 20px;
+    right: -35px;
+    background: #ffc107;
+    color: #000;
+    padding: 5px 40px;
+    transform: rotate(45deg);
+    font-weight: bold;
+    font-size: 0.8rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Animations */
+.animate-up {
+    animation: fadeInUp 1s ease-out forwards;
+    opacity: 0;
+    transform: translateY(30px);
+}
+
+.delay-1 {
+    animation-delay: 0.2s;
+}
+
+.delay-2 {
+    animation-delay: 0.4s;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Button Shine Effect */
+.shine-effect {
+    position: relative;
+    overflow: hidden;
+}
+
+.shine-effect::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+    animation: shine 3s infinite;
+}
+
+@keyframes shine {
+    100% {
+        left: 100%;
+    }
+}
+
+/* Spacing Helpers */
+.ls-2 {
+    letter-spacing: 2px;
+}
